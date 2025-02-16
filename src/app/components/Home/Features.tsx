@@ -8,12 +8,36 @@ interface FeatureItem {
 }
 
 const features: FeatureItem[] = [
-  { icon: <FileText className="h-8 w-8 text-blue-600" />, title: "AI-Driven Resume Optimization", description: "Receive targeted insights to craft resumes that stand out." },
-  { icon: <Rocket className="h-8 w-8 text-blue-600" />, title: "Professionally Designed Templates", description: "Access over 1,000 modern templates for a unique and polished look." },
-  { icon: <Globe className="h-8 w-8 text-blue-600" />, title: "Multi-Language Support", description: "Reach global employers with resumes in multiple languages." },
-  { icon: <Zap className="h-8 w-8 text-blue-600" />, title: "Instant Resume Creation", description: "Save time with a fast, streamlined process that’s ready in minutes." },
-  { icon: <Palette className="h-8 w-8 text-blue-600" />, title: "Customizable Designs", description: "Personalize every detail to match your professional style." },
-  { icon: <LayoutTemplate className="h-8 w-8 text-blue-600" />, title: "ATS-Compatible", description: "Boost your visibility by ensuring your resume passes ATS checks." }
+  {
+    icon: <FileText className="h-8 w-8 text-blue-600" />,
+    title: "AI-Driven Resume Optimization",
+    description: "Receive targeted insights to craft resumes that stand out."
+  },
+  {
+    icon: <Rocket className="h-8 w-8 text-blue-600" />,
+    title: "Professionally Designed Templates",
+    description: "Access over 1,000 modern templates for a unique and polished look."
+  },
+  {
+    icon: <Globe className="h-8 w-8 text-blue-600" />,
+    title: "Multi-Language Support",
+    description: "Reach global employers with resumes in multiple languages."
+  },
+  {
+    icon: <Zap className="h-8 w-8 text-blue-600" />,
+    title: "Instant Resume Creation",
+    description: "Save time with a fast, streamlined process that's ready in minutes."
+  },
+  {
+    icon: <Palette className="h-8 w-8 text-blue-600" />,
+    title: "Customizable Designs",
+    description: "Personalize every detail to match your professional style."
+  },
+  {
+    icon: <LayoutTemplate className="h-8 w-8 text-blue-600" />,
+    title: "ATS-Compatible",
+    description: "Boost your visibility by ensuring your resume passes ATS checks."
+  }
 ];
 
 interface FeaturesProps {
@@ -43,7 +67,7 @@ const Features: React.FC<FeaturesProps> = ({ t }) => (
                 <div className="bg-blue-100 p-3 rounded-full">
                   {React.cloneElement(feature.icon, {
                     className: "h-6 w-6 sm:h-8 sm:w-8 text-blue-600"
-                  })}
+                  } as { className: string })}
                 </div>
                 <h3 className="text-base sm:text-lg font-semibold text-gray-800 text-center sm:text-left lg:text-center">
                   {t(`features.items.${index}.title`)}
@@ -51,7 +75,7 @@ const Features: React.FC<FeaturesProps> = ({ t }) => (
               </div>
             </div>
 
-            <div 
+            <div
               className="absolute inset-0 bg-blue-600 rounded-xl flex items-center justify-center p-4 sm:p-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
             >
               <p className="text-white text-sm sm:text-base text-center font-medium">

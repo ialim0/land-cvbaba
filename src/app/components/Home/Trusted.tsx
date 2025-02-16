@@ -24,14 +24,14 @@ interface TipsTranslations {
 }
 
 const COMPANIES: Company[] = [
-    { "name": "Google", "logo": "/svgs/google.svg" },        // Tech
-    { "name": "Goldman Sachs", "logo": "/svgs/goldman-sachs.svg" }, // Finance
-    { "name": "Nike", "logo": "/svgs/nike.svg" },            // Retail/Consumer Goods
-    { "name": "Netflix", "logo": "/svgs/netflix.svg" },      // Media/Entertainment
-    { "name": "Deloitte", "logo": "/svgs/deloitte.svg" },    // Consulting
-    { "name": "Tesla", "logo": "/svgs/tesla.svg" },          // Innovation/Automotive
-    { "name": "Apple", "logo": "/svgs/apple.svg" },          // Tech/Hardware
-    { "name": "Microsoft", "logo": "/svgs/microsoft.svg" }   // Tech/Software
+    { "name": "Google", "logo": "/svgs/google.svg" },       
+    { "name": "Goldman Sachs", "logo": "/svgs/goldman-sachs.svg" }, 
+    { "name": "Nike", "logo": "/svgs/nike.svg" },          
+    { "name": "Netflix", "logo": "/svgs/netflix.svg" },     
+    { "name": "Deloitte", "logo": "/svgs/deloitte.svg" },   
+    { "name": "Tesla", "logo": "/svgs/tesla.svg" },         
+    { "name": "Apple", "logo": "/svgs/apple.svg" },        
+    { "name": "Microsoft", "logo": "/svgs/microsoft.svg" }  
   
 ];
 
