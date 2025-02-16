@@ -15,14 +15,18 @@ const CallToAction: React.FC<CallToActionProps> = ({ t }) => (
       <p className="text-lg sm:text-xl md:text-xl mb-8 text-gray-700">
         {t('callToAction.description')}
       </p>
-      <Link href="/login" passHref>
+      <a
+        href="https://chat.cvbaba.com"
+
+        aria-label={t('callToAction.getStartedAriaLabel')}
+      >
         <Button
           className="bg-blue-600 hover:bg-blue-700 focus:bg-blue-700 text-white px-6 py-3 sm:px-8 sm:py-4 text-lg font-semibold rounded-full shadow-lg transition duration-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
-          aria-label={t('callToAction.getStartedAriaLabel')}
         >
           {t('callToAction.getStarted')}
         </Button>
-      </Link>
+      </a>
+
     </div>
   </section>
 );

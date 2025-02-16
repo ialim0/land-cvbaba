@@ -91,7 +91,7 @@ const PlanCards: React.FC<PlanCardsProps> = ({ billingCycle, t }) => {
     const plan = PLANS[planId];
     
     if (planId === "free_baba") {
-      window.location.href = "/login";
+      window.location.href = "https://chat.cvbaba.com";
       return;
     }
 
