@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "title": "脱颖而出并获得聘用",
+    "subtitle": "通过 AI 驱动、专业设计的简历，彻底改变您的求职方式，留下深刻印象。",
+    "ctaButton": "开启您的 Zen CV 旅程",
+    "ctaAriaLabel": "立即使用 CVBABA 开始"
+  },
+
+  "features": {
+    "title": "释放您的职业潜力",
+    "subtitle": "发现我们的定制工具如何增强您的简历，在求职中产生真正的影响。",
+    "items": [
+      {
+        "title": "AI 驱动的简历优化",
+        "description": "获得针对性的见解，制作脱颖而出的简历。"
+      },
+      {
+        "title": "专业设计的模板",
+        "description": "访问超过 1,000 个现代模板，打造独特且精美的外观。"
+      },
+      {
+        "title": "多语言支持",
+        "description": "通过多语言简历吸引全球雇主。"
+      },
+      {
+        "title": "即时简历创建",
+        "description": "通过快速、高效的流程，在几分钟内完成简历。"
+      },
+      {
+        "title": "可定制设计",
+        "description": "个性化每个细节以匹配您的职业风格。"
+      },
+      {
+        "title": "ATS 兼容",
+        "description": "确保您的简历通过 ATS 检查，提高您的可见度。"
+      }
+    ]
+  },
+
+  "statistics": {
+    "title": "备受成千上万人信赖",
+    "subtitle": "加入一个社区，与数千名专业人士一起，轻松自信地提升求职效果。",
+    "items": [
+      {
+        "value": "10K+",
+        "label": "活跃用户"
+      },
+      {
+        "value": "1000+",
+        "label": "模板"
+      },
+      {
+        "value": "90%",
+        "label": "成功率"
+      },
+      {
+        "value": "40k 小时",
+        "label": "节省的时间"
+      }
+    ]
+  },
+
+  "testimonials": {
+    "title": "我们的用户怎么说",
+    "subtitle": "了解 CVBABA 如何为来自各行各业的求职者带来改变。",
+    "description": "了解 CVBABA 如何为来自各行各业的求职者带来改变。"
+  },
+
+  "callToAction": {
+    "title": "准备好打造完美简历了吗？",
+    "description": "从 CVBABA 开始您的旅程，彻底改变您对求职的方式。让我们一起让求职变得更轻松。",
+    "getStarted": "立即开始"
+  },
+
+  "loginForm": {
+    "headerSubtitle": "加入数千名解锁职业潜力的专业人士",
+    "accessTitle": "快速便捷的访问",
+    "accessSubtitle": "选择您喜欢的登录方式",
+    "connecting": "正在连接...",
+    "termsText": "继续即表示您同意我们的",
+    "termsLink": "服务条款",
+    "and": "和",
+    "privacyLink": "隐私政策",
+    "helpText": "需要帮助？",
+    "contactSupport": "联系支持",
+    
+    "buttonLabels": {
+      "google": "通过 Google 继续",
+      "linkedin": "通过 LinkedIn 继续",
+      "facebook": "通过 Facebook 继续"
+    }
+  }
+}

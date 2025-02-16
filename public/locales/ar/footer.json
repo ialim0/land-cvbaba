@@ -1,0 +1,20 @@
+{
+    "loginForm": {
+      "buttonLabels": {
+        "google": "Continue with Google",
+        "linkedin": "Continue with LinkedIn",
+        "facebook": "Continue with Facebook"
+      },
+      "headerSubtitle": "Welcome to our platform",
+      "accessTitle": "Access Your Account",
+      "accessSubtitle": "Choose a method to sign in",
+      "connecting": "Connecting...",
+      "termsText": "By signing in, you agree to our",
+      "termsLink": "Terms of Service",
+      "and": "and",
+      "privacyLink": "Privacy Policy",
+      "helpText": "Need help?",
+      "contactSupport": "Contact Support"
+    }
+  }
+  

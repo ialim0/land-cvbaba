@@ -1,0 +1,976 @@
+{
+  "Gmorning": "Guten Morgen",
+  "Gafternoon": "Guten Tag",
+  "Gevening": "Guten Abend",
+
+  "hero": {
+    "title": "Verwandle deine Karriere mit nur einem Gespräch",
+    "subtitle": "Erstelle in kürzester Zeit ATS-freundliche Lebensläufe und Bewerbungsschreiben – einfach eingeben, bearbeiten und Unternehmen weltweit mit Leichtigkeit beeindrucken.",
+    "ctaButton": "Probiere CVBABA aus",
+    "ctaAriaLabel": "Probiere CVBABA aus",
+    "noCreditCardRequired": "Null Risiko: Starte kostenlos, upgrade jederzeit",
+    "watchDemo": "Demo ansehen",
+    "benefit1": "Besiege die Bots: ATS-optimierte Lebensläufe, die Platz #1 belegen",
+    "benefit2": "Schneller Erfolg: Erstelle perfekte Dokumente in <2 Minuten",
+    "benefit3": "Globale Reichweite: Mehrsprachige Unterstützung für über 20 Sprachen",
+    "badge": "BABA AI"
+  },
+
+  "features": {
+    "title": "Verwandle jede Idee in Realität – ein Prompt nach dem anderen.",
+    "subtitle": "Erstelle wirkungsvolle Lebensläufe und maßgeschneiderte Anschreiben mit Tools, die deine Jobsuche mühelos und effektiv gestalten.",
+    "items": [
+      {
+        "title": "KI-gestützte Lebenslaufoptimierung",
+        "description": "Gib deinen Prompt ein, und unsere KI erstellt alles, was du brauchst."
+      },
+      {
+        "title": "Professionell gestaltete Vorlagen",
+        "description": "Erhalte Zugriff auf unbegrenzte Vorlagen für ein einzigartiges und poliertes Erscheinungsbild."
+      },
+      {
+        "title": "Mehrsprachige Unterstützung",
+        "description": "Erreiche globale Arbeitgeber mit Lebensläufen in mehreren Sprachen."
+      },
+      {
+        "title": "Sofortige Lebenslauferstellung",
+        "description": "Gib deinen Prompt ein, und unsere KI erstellt deinen Lebenslauf in weniger als 2 Minuten."
+      },
+      {
+        "title": "Anpassbare Designs",
+        "description": "Passe jedes Detail an, um es deinem professionellen Stil anzupassen."
+      },
+      {
+        "title": "ATS-kompatibel",
+        "description": "Steigere deine Sichtbarkeit, indem du sicherstellst, dass dein Lebenslauf ATS-Prüfungen besteht."
+      }
+    ]
+  },
+
+  "testimonials": {
+    "title": "Was unsere Nutzer sagen",
+    "subtitle": "Sieh, wie CVBABA einen Unterschied für Jobsuchende aus allen Branchen und Hintergründen gemacht hat.",
+    "description": "Sieh, wie CVBABA einen Unterschied für Jobsuchende aus allen Branchen und Hintergründen gemacht hat."
+  },
+
+  "callToAction": {
+    "title": "Bereit, deinen perfekten Lebenslauf zu erstellen?",
+    "description": "Starte deine Reise mit CVBABA und verändere die Art und Weise, wie du deine Jobsuche angehst. Lass es uns gemeinsam einfacher machen.",
+    "getStarted": "Jetzt ausprobieren →"
+  },
+
+  "loginForm": {
+    "headerSubtitle": "Schließe dich Tausenden von Profis an, die ihr Karrierepotenzial entfalten",
+    "accessTitle": "Schneller und einfacher Zugang",
+    "accessSubtitle": "Wähle deine bevorzugte Anmeldemethode",
+    "connecting": "Verbinden...",
+    "termsText": "Indem du fortfährst, stimmst du unseren",
+    "termsLink": "Nutzungsbedingungen",
+    "and": "und",
+    "privacyLink": "Datenschutzrichtlinien",
+    "helpText": "Brauchst du Hilfe?",
+    "contactSupport": "Support kontaktieren",
+    "buttonLabels": {
+      "google": "Mit Google fortfahren",
+      "linkedin": "Mit LinkedIn fortfahren",
+      "facebook": "Mit Facebook fortfahren"
+    },
+    "welcomeMessage": "Schön, dich wiederzusehen! Bitte melde dich an, um fortzufahren",
+    "title": "Anmelden",
+    "orSignInWithEmail": "Oder melde dich mit E-Mail an",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "deine@email.com",
+    "passwordLabel": "Passwort",
+    "showPassword": "Passwort anzeigen",
+    "hidePassword": "Passwort verbergen",
+    "createAccount": "Konto erstellen",
+    "forgotPassword": "Passwort vergessen?",
+    "signInButton": "Anmelden"
+  },
+  "loginPage": {
+    "heroTitle": "Beschleunigen sie ihre karriere mit KI",
+    "heroSubtitle": "Erschließe Chancen überall, egal wo du bist! "
+  },
+  "chatPage": {
+    "title": "CVBABA Chat",
+    "description": "Sprechen Sie über Ihren Lebenslauf mit CVBABA"
+  },
+  "metadata": {
+    "title": "CVBABA: Mühelos Erstellen von Lebensläufen und Anschreiben für Weltweite Jobs",
+    "description": "In Minuten jobbereit mit CVBABA! Unsere KI-gestützte Plattform hilft Ihnen, professionelle Lebensläufe und Anschreiben zu erstellen, die auf globale Chancen zugeschnitten sind. Schnell, einfach und darauf ausgelegt, Ihnen zum Erfolg zu verhelfen."
+  },
+
+  "cvPage": {
+    "loadingSidebar": "Sidebar wird geladen...",
+    "loadingCVPage": "Lebenslaufseite wird geladen..."
+  },
+  "resumeChat": {
+    "supportMessage": "Mit CVBABA, entdecke Chancen, wo immer du bist.",
+    "upgradeToPro": "KI-Level upgraden",
+    "paymentError": "Wenig Credits übrig!",
+    "paymentErrorMessage": "Bereit für mehr? Aktualisieren Sie Ihr KI-Level unten."
+  },
+  "errors": {
+    "loadUserProfile": "Fehler beim Laden des Benutzerprofils",
+    "provideResumeDescription": "Bitte gib eine Lebenslaufbeschreibung an",
+    "submissionError": "Bei der Verarbeitung deiner Anfrage ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "assistantError": "Entschuldigung, bei der Verarbeitung deiner Anfrage ist ein Fehler aufgetreten. Bitte versuche es erneut."
+  },
+  "pricing": {
+    "meta": {
+      "title": "CVBABA Preise - Professionelle Pläne zur Erstellung von Lebensläufen und Anschreiben",
+      "description": "Wählen Sie den perfekten CVBABA-Plan für Ihre Karrierebedürfnisse. Erschwingliche Pakete zur Erstellung von Lebensläufen und Anschreiben mit KI-gestützten Tools und professionellen Vorlagen.",
+      "og": {
+        "title": "CVBABA Preise - Professionelle Pläne zur Erstellung von Lebensläufen und Anschreiben",
+        "description": "Wählen Sie den perfekten CVBABA-Plan für Ihre Karrierebedürfnisse. Erschwingliche Pakete zur Erstellung von Lebensläufen und Anschreiben mit KI-gestützten Tools und professionellen Vorlagen.",
+        "imageAlt": "CVBABA Preispläne"
+      },
+      "twitter": {
+        "title": "CVBABA Preise - Professionelle Pläne zur Erstellung von Lebensläufen und Anschreiben",
+        "description": "Wählen Sie den perfekten CVBABA-Plan für Ihre Karrierebedürfnisse. Erschwingliche Pakete zur Erstellung von Lebensläufen und Anschreiben mit KI-gestützten Tools und professionellen Vorlagen."
+      }
+    },
+    "pricingHero": {
+      "title": "Steigern sie ihre berufliche zukunft mit dem vorteil der KI",
+      "subtitle": "Wählen Sie Ihren KI-Vorteil"
+    },
+    "promoBanner": {
+      "title": "Sonderangebot!",
+      "endsIn": "Endet in",
+      "claimOfferButton": "Angebot Sichern"
+    },
+    "pricingtoggle": {
+      "monthly": "Monatlich",
+      "annual": "Jährlich"
+    },
+    "plans": {
+      "mostPopular": "Am beliebtesten",
+      "savePercentage": "Spare {{percentage}}%",
+      "billedAnnually": "Jährlich abgerechnet bei ${{annualPrice}} / Jahr",
+      "noCreditCardRequired": "Keine Kreditkarte erforderlich",
+      "whatYouGet": "Was du erhältst:",
+      "selectPlan": "Wähle den {{planName}}-Plan",
+      "free_baba": {
+        "name": "Kostenlos",
+        "description": "Perfekt für den Einstieg. Keine Kosten, keine Verpflichtung.",
+        "buttonText": "Kostenlos starten",
+        "features": ["20 KI-Guthaben", "Zugriff auf Basisvorlagen"]
+      },
+      "star_baba": {
+        "name": "Stern BABA",
+        "description": "Ideal für Einzelpersonen, die etwas mehr Power benötigen, um ihre Ziele zu erreichen.",
+        "buttonText": "Stern wählen",
+        "features": [
+          "200 KI-Guthaben pro Monat",
+          "Priorisierter E-Mail-Support"
+        ]
+      },
+      "pro_baba": {
+        "name": "Pro BABA",
+        "description": "Für Profis, die erweiterte Funktionen freischalten möchten.",
+        "buttonText": "Pro wählen",
+        "features": [
+          "500 KI-Guthaben pro Monat",
+          "Erweiterte Vorlagen",
+          "Priorisierter Support"
+        ]
+      },
+      "premium_baba": {
+        "name": "Premium BABA",
+        "description": "Der ultimative Plan für maximale Produktivität und Support.",
+        "buttonText": "Premium wählen",
+        "features": [
+          "1000 KI-Guthaben pro Monat",
+          "Freischaltung aller Vorlagen",
+          "Persönlicher 1:1-Support"
+        ]
+      },
+      "default": {
+        "buttonText": "Wähle {{planName}}"
+      },
+      "billed_at_text": "Jährlich berechnet mit {{price}}"
+    },
+    "comparisonTable": {
+      "title": "Vergleiche unsere Pläne",
+      "features": {
+        "email": "E-Mail",
+        "feature": "Funktion",
+        "free": "Kostenlos",
+        "priorityEmail": "Priorisierte E-Mail",
+        "priorityChat": "Priorisiert + Chat",
+        "24_7Priority": "24/7 Priorisiert",
+        "basicOnly": "Nur Basic",
+        "standard": "Standard",
+        "advanced": "Erweitert",
+        "limited": "Begrenzt",
+        "unlimited": "Unbegrenzt",
+        "basic": {
+          "label": "Star BABA",
+          "badge": "Beliebt"
+        },
+        "pro": {
+          "label": "Pro BABA",
+          "badge": "Bester Wert"
+        },
+        "premium": {
+          "label": "Premium BABA",
+          "badge": "Alle Funktionen"
+        }
+      },
+      "plans": {
+        "cta": "Wähle {{name}} - ${{price}}/Monat",
+        "billedAnnually": {
+          "text": "Jährlich abgerechnet bei ${{price}} (spare {{discount}}%)"
+        }
+      },
+      "featuresComparison": {
+        "monthlyAICredits": "Monatliche KI-Guthaben",
+        "templates": "Vorlagen",
+        "quickCreation": "Schnelle Erstellung",
+        "smartFormatting": "Intelligente Formatierung",
+        "documentUpdates": "Dokumentaktualisierungen",
+        "documentDownloads": "Dokumentdownloads",
+        "resumeAI": "Lebenslauf-KI",
+        "coverLetterAI": "Anschreiben-KI",
+        "accessToZenAI": "Zugriff auf BABA AI",
+        "templateCustomization": "Vorlagenanpassung",
+        "atsOptimization": "ATS-Optimierung",
+        "interviewQASimulation": "Interview-Q&A-Simulation (Demnächst)",
+        "customerSupport": "Kundensupport",
+        "dedicatedAccountManager": "Persönlicher Account-Manager"
+      }
+    }
+  },
+  "trusted": {
+    "title": "Hinterlassen Sie Eindruck",
+    "description": "CVBABA hilft Ihnen, Personalverantwortliche in jeder Branche zu begeistern.",
+    "tips": {
+      "impact": {
+        "category": "Wirkung",
+        "tip": "Verwende Zahlen, um Wirkung zu zeigen: 'Systemleistung verbessert' wird zu 'Systemlatenz durch Optimierung um 40 % reduziert.'",
+        "impact": "3x mehr Vorstellungsgespräche"
+      },
+      "strategy": {
+        "category": "Strategie",
+        "tip": "Optimiere Schlüsselwörter für jede Rolle. Die Anpassung deines Lebenslaufs hilft, ATS-Prüfungen zu bestehen und die Aufmerksamkeit von Recruitern zu erregen.",
+        "impact": "80 % bessere ATS-Bewertung"
+      },
+      "growth": {
+        "category": "Wachstum",
+        "tip": "Zeige dein Wachstum. Beförderungen, neue Verantwortlichkeiten oder Weiterbildungen machen deine Karriere spannend.",
+        "impact": "2x höhere Rückrufquote"
+      },
+      "format": {
+        "category": "Format",
+        "tip": "Halte es prägnant, aber aussagekräftig. Starke Verben und relevante Erfolge sprechen Bände.",
+        "impact": "90 % Zustimmung von Recruitern"
+      },
+      "technical": {
+        "category": "Technisch",
+        "tip": "Füge eine kurze technische Zusammenfassung hinzu, die für die Rolle relevant ist, um es Recruitern leicht zu machen, deine Eignung sofort zu beurteilen.",
+        "impact": "60 % schnellere Antworten"
+      }
+    },
+    "tryTipButton": "Jetzt diesen Tipp ausprobieren"
+  },
+  "faq": {
+    "title": "FAQ",
+    "searchPlaceholder": "Was möchten Sie wissen?",
+    "expandAll": "Alle Fragen erweitern",
+    "collapseAll": "Alle Fragen reduzieren",
+    "secondTitle": "Ihre Fragen, unsere Antworten",
+    "subtitle": "Erfahren Sie, wie CVBABA Ihre Jobsuche revolutioniert",
+    "noResults": {
+      "message": "Finden Sie nicht, was Sie suchen?",
+      "subMessage": "Unser Team steht Ihnen zur Verfügung, um Sie zum Erfolg zu führen."
+    },
+    "footer": {
+      "text": "Bereit, den nächsten Schritt zu gehen?",
+      "link": "Lassen Sie uns über Ihre Karriereziel sprechen"
+    },
+    "questions": [
+      {
+        "question": "Wie verändert CVBABA meine Jobsuche?",
+        "answer": "CVBABA vereinfacht und optimiert Ihre Jobsuche mit einer intuitiven KI. Durch die Interaktion mit unserem Tool können Sie einen überzeugenden Lebenslauf, ein überzeugendes Anschreiben erstellen oder ein bestehendes Dokument verbessern. Unsere Technologie verwandelt Ihre beruflichen Erfahrungen in eine fesselnde Erzählung, die es Ihnen ermöglicht, sich bei den Personalvermittlern hervorzuheben."
+      },
+      {
+        "question": "Was unterscheidet CVBABA von anderen Lebenslauf-Erstellern?",
+        "answer": "CVBABA hebt sich durch seinen interaktiven und personalisierten Ansatz ab. Im Gegensatz zu traditionellen Tools, die auf starre Formulare beschränkt sind, fungiert unsere KI als Karriere-Coach und hilft Ihnen, Ihre Stärken auf einzigartige Weise hervorzuheben. Ob für einen Lebenslauf, ein Anschreiben oder ein PDF – wir unterstützen Sie dabei, Dokumente zu erstellen, die Ihre beruflichen Qualitäten widerspiegeln."
+      },
+      {
+        "question": "Wie schnell kann ich ein professionelles Dokument erstellen?",
+        "answer": "Mit CVBABA dauert es weniger als 2 Minuten, um ein professionelles Dokument zu erstellen. Unsere KI verwandelt Ihre Informationen schnell in einen Lebenslauf, ein Anschreiben oder ein qualitativ hochwertiges PDF. Sie sparen Zeit und erhalten ein professionelles Ergebnis, ohne sich um das Format kümmern zu müssen."
+      },
+      {
+        "question": "Welcher CVBABA-Plan ist der richtige für mich?",
+        "answer": "CVBABA bietet Pläne, die auf Ihre Bedürfnisse zugeschnitten sind und auf einem Kredit-System basieren. Je höher der Plan, desto mehr Credits und erweiterte Funktionen erhalten Sie. Der kostenlose Plan ermöglicht es Ihnen, unsere Tools kennenzulernen, während die höheren Pläne mehr Credits zur Nutzung der KI bieten. Die PDF-Bearbeitung ohne KI ist in allen Plänen unbegrenzt, sodass Sie Ihre Dokumente nach Belieben anpassen können."
+      },
+      {
+        "question": "Wie häufig sollte ich meine Dokumente aktualisieren?",
+        "answer": "Wir empfehlen, Ihre Dokumente bei jeder neuen beruflichen Gelegenheit zu aktualisieren. Passen Sie Ihren Lebenslauf und Ihr Anschreiben an die Anforderungen der gewünschten Position an. CVBABA hilft Ihnen, Ihre Dokumente schnell zu personalisieren, um Ihre Erfolgschancen zu maximieren."
+      },
+      {
+        "question": "Sind meine Daten bei CVBABA sicher?",
+        "answer": "Die Sicherheit Ihrer Daten hat bei uns oberste Priorität. CVBABA verwendet fortschrittliche Verschlüsselung, um Ihre Informationen zu schützen. Sie können Ihre Erfahrungen und Ziele mit Vertrauen teilen, da Ihre Daten mit höchster Vertraulichkeit behandelt werden."
+      },
+      {
+        "question": "Welche Art von Unterstützung kann ich erwarten?",
+        "answer": "Unser Support-Team steht Ihnen in jedem Schritt zur Seite. Ob Sie Hilfe bei der Erstellung überzeugender Dokumente benötigen oder unsere Funktionen erkunden möchten, wir sind für Sie da. Benutzer höherer Pläne erhalten eine persönliche Unterstützung, um ihr Erlebnis zu maximieren."
+      },
+      {
+        "question": "Wie starte ich mit CVBABA?",
+        "answer": "Starten Sie jetzt, indem Sie mit unserer KI sprechen. Keine Kreditkarte oder komplizierte Registrierung erforderlich. Ob Sie einen Lebenslauf, ein Anschreiben erstellen oder ein PDF verbessern möchten, CVBABA hilft Ihnen, Ihre berufliche Transformation zu beginnen. Bereit, aktiv zu werden?"
+      }
+    ]
+  },
+  "privacyPolicy": {
+    "header": {
+      "title": "Datenschutzrichtlinie",
+      "subtitle": "Wichtige rechtliche Informationen unten!"
+    },
+    "keyPoints": {
+      "title": "Hauptpunkte",
+      "points": [
+        "Wir sammeln Kontodaten, Lebenslaufdaten, Nutzungsdaten und technische Daten.",
+        "Ihre Daten werden verwendet, um unsere Dienste bereitzustellen und zu verbessern.",
+        "Wir setzen starke Sicherheitsmaßnahmen ein, um Ihre Informationen zu schützen.",
+        "Sie haben das Recht, auf Ihre Daten zuzugreifen, sie zu berichtigen und zu löschen.",
+        "Wir sammeln wissentlich keine Daten von Kindern unter 16 Jahren."
+      ]
+    },
+    "expandAll": "Alle Abschnitte erweitern",
+    "collapseAll": "Alle Abschnitte reduzieren",
+    "sections": {
+      "introduction": {
+        "title": "Einführung",
+        "content": [
+          "Willkommen auf <strong>cvbaba.com</strong> (die \"Website\"), betrieben von <strong>BylyAI</strong>, dem für die Verarbeitung Ihrer persönlichen Daten verantwortlichen Datenverantwortlichen. Bei Fragen kontaktieren Sie uns unter <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>.",
+          "Bei <strong>CVBABA</strong> priorisieren wir Ihre Privatsphäre und sind bestrebt, Ihre persönlichen Informationen zu schützen. Diese Datenschutzrichtlinie beschreibt, wie wir Ihre Daten sammeln, verwenden und schützen.",
+          "Durch die Nutzung der Website und der von CVBaba angebotenen Dienste erklären Sie sich mit den in dieser Datenschutzrichtlinie beschriebenen Datenpraktiken einverstanden. Wir empfehlen Ihnen, sie durchzulesen, um unser Engagement für Ihre Privatsphäre zu verstehen."
+        ]
+      },
+      "informationWeCollect": {
+        "title": "Informationen, die wir sammeln",
+        "content": [
+          "Wir sammeln die folgenden Arten von persönlichen Informationen:",
+          "<ul><li><strong>Kontoinformationen:</strong> Name, E-Mail, Anmeldedaten, Zahlungsdetails.</li><li><strong>Lebenslaufinhalt:</strong> Informationen, die Sie in Ihren Lebensläufen angeben.</li><li><strong>Nutzungsdaten:</strong> Wie Sie mit unseren Diensten interagieren.</li><li><strong>Kommunikationsdaten:</strong> Inhalt Ihrer Nachrichten an uns.</li><li><strong>Technische Daten:</strong> IP-Adresse, Browsertyp, Geräteinformationen.</li></ul>"
+        ]
+      },
+      "howWeUseYourInformation": {
+        "title": "Wie wir Ihre Informationen verwenden",
+        "content": [
+          "Wir verwenden Ihre Informationen, um:",
+          "<ul><li>Unsere Lebenslauf-Erstellungsdienste bereitzustellen und zu verbessern.</li><li>Ihre Erfahrung zu personalisieren und maßgeschneiderte Vorschläge zu machen.</li><li>Zahlungen zu verarbeiten und Ihr Konto zu verwalten.</li><li>Mit Ihnen über unsere Dienste und Updates zu kommunizieren.</li><li>Die Sicherheit und Integrität unserer Plattform zu gewährleisten.</li><li>Gesetzliche Verpflichtungen zu erfüllen.</li></ul>"
+        ]
+      },
+      "informationSharing": {
+        "title": "Weitergabe von Informationen",
+        "content": [
+          "Wir können Ihre Informationen teilen mit:",
+          "<ul><li>Dienstleistern, die uns bei der Bereitstellung unserer Dienste helfen.</li><li>Behörden, wenn dies gesetzlich vorgeschrieben ist.</li><li>Geschäftspartnern im Falle einer Fusion oder Übernahme.</li><li>Anderen Nutzern, nur wenn Sie Ihren Lebenslauf öffentlich teilen möchten.</li></ul>"
+        ]
+      },
+      "yourRights": {
+        "title": "Ihre Rechte",
+        "content": [
+          "Sie haben das Recht auf:",
+          "<ul><li>Zugriff auf und Erhalt einer Kopie Ihrer persönlichen Daten.</li><li>Berichtigung ungenauer oder unvollständiger Informationen.</li><li>Löschung Ihrer persönlichen Daten.</li><li>Widerspruch gegen bestimmte Verarbeitungen Ihrer Daten.</li><li>Datenübertragbarkeit.</li></ul>",
+          "Um diese Rechte auszuüben, kontaktieren Sie uns unter <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>."
+        ]
+      },
+      "dataSecurity": {
+        "title": "Datensicherheit",
+        "content": [
+          "Wir setzen robuste Sicherheitsmaßnahmen ein, darunter Verschlüsselung, sichere Server und regelmäßige Sicherheitsüberprüfungen. Allerdings ist keine Übertragungsmethode über das Internet zu 100 % sicher. Wir bemühen uns, Ihre Daten zu schützen, können aber keine absolute Sicherheit garantieren."
+        ]
+      },
+      "childrensPrivacy": {
+        "title": "Datenschutz für Kinder",
+        "content": [
+          "CVBABA ist nicht für Nutzer unter 16 Jahren bestimmt. Wir sammeln wissentlich keine Daten von Kindern unter 16 Jahren. Wenn wir erfahren, dass wir persönliche Daten von einem Kind unter 16 Jahren gesammelt haben, werden wir diese Informationen umgehend löschen. Wenn Sie glauben, dass wir Informationen von oder über ein Kind unter 16 Jahren haben, kontaktieren Sie uns bitte."
+        ]
+      },
+      "changesToThisPolicy": {
+        "title": "Änderungen dieser Richtlinie",
+        "content": [
+          "Wir können diese Richtlinie regelmäßig aktualisieren. Wir werden Sie über wesentliche Änderungen informieren, indem wir die neue Richtlinie auf dieser Seite veröffentlichen und das Datum der letzten Aktualisierung aktualisieren. Bitte überprüfen Sie diese Seite regelmäßig!"
+        ]
+      },
+      "contactUs": {
+        "title": "Kontaktieren Sie uns",
+        "content": [
+          "Bei Fragen oder Bedenken zu dieser Datenschutzrichtlinie kontaktieren Sie uns bitte unter <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>."
+        ]
+      }
+    },
+    "lastUpdated": "Zuletzt aktualisiert:"
+  },
+  "contact": {
+    "header": {
+      "title": "Kontaktieren Sie uns",
+      "subtitle": "Fragen, Feedback oder Support – wir sind nur eine Nachricht entfernt"
+    },
+    "info": {
+      "email": {
+        "title": "Schreiben Sie uns eine E-Mail",
+        "content": "support@cvbaba.com"
+      },
+      "officeHours": {
+        "title": "Bürozeiten",
+        "content": "Montag - Sonntag: 9:00 - 22:00 Uhr GMT"
+      }
+    },
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "fields": {
+        "name": "Name *",
+        "email": "E-Mail *",
+        "subject": "Betreff *",
+        "message": "Nachricht *"
+      },
+      "placeholders": {
+        "name": "Ihr Name",
+        "email": "Ihre E-Mail",
+        "subject": "Wählen Sie einen Betreff",
+        "message": "Ihre Nachricht hier..."
+      },
+      "subjects": [
+        { "value": "general", "label": "Allgemeine Anfrage" },
+        { "value": "technical", "label": "Technischer Support" },
+        { "value": "billing", "label": "Frage zur Abrechnung" },
+        { "value": "feedback", "label": "Feedback" },
+        { "value": "other", "label": "Anderes" }
+      ],
+      "submit": {
+        "text": "Nachricht senden",
+        "loading": "Wird gesendet..."
+      },
+      "success": {
+        "title": "Nachricht gesendet!",
+        "message": "Vielen Dank, dass Sie uns kontaktiert haben."
+      },
+      "errors": {
+        "name": "Name ist erforderlich.",
+        "email": "Eine gültige E-Mail-Adresse ist erforderlich.",
+        "subject": "Betreff ist erforderlich.",
+        "message": "Nachricht ist erforderlich.",
+        "generic": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es später erneut."
+      }
+    }
+  },
+  "termsOfService": {
+    "header": {
+      "title": "Nutzungsbedingungen",
+      "subtitle": "Wichtige rechtliche Informationen unten!"
+    },
+    "keyPoints": {
+      "title": "Hauptpunkte",
+      "points": [
+        "Sie müssen mindestens 16 Jahre alt sein, um CVBABA zu nutzen.",
+        "Sie sind verantwortlich für die Vertraulichkeit Ihres Kontos.",
+        "Wir behalten uns das Recht vor, Konten zu kündigen, die gegen unsere Bedingungen verstoßen.",
+        "Die von Ihnen erstellten Inhalte bleiben Ihr Eigentum, aber wir haben eine Lizenz zur Nutzung.",
+        "Unser Service wird \"wie besehen\" ohne Gewährleistungen bereitgestellt."
+      ]
+    },
+    "expandAll": "Alle Abschnitte erweitern",
+    "collapseAll": "Alle Abschnitte reduzieren",
+    "sections": {
+      "acceptanceOfTerms": {
+        "title": "Annahme der Bedingungen",
+        "content": "Durch den Zugriff auf oder die Nutzung von CVBABA erklären Sie sich mit diesen Nutzungsbedingungen einverstanden. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, dürfen Sie den Dienst nicht nutzen."
+      },
+      "descriptionOfService": {
+        "title": "Beschreibung des Dienstes",
+        "content": "CVBABA bietet einen KI-gestützten Dienst zur Erstellung und Optimierung von Lebensläufen. Wir bieten Tools zur Erstellung, Bearbeitung und Verbesserung von Lebensläufen für Arbeitssuchende."
+      },
+      "userAccounts": {
+        "title": "Benutzerkonten",
+        "content": "Sie müssen mindestens 16 Jahre alt sein, um CVBABA zu nutzen. Sie sind verantwortlich für die Vertraulichkeit Ihres Kontos und Passworts. Sie erklären sich damit einverstanden, die Verantwortung für alle Aktivitäten zu übernehmen, die unter Ihrem Konto stattfinden."
+      },
+      "userContent": {
+        "title": "Benutzerinhalte",
+        "content": "Sie behalten alle Rechte an den Inhalten, die Sie bei CVBABA einreichen. Durch das Einreichen von Inhalten gewähren Sie CVBABA eine weltweite, nicht-exklusive, gebührenfreie Lizenz zur Nutzung, Vervielfältigung und Anzeige Ihrer Inhalte im Zusammenhang mit dem Dienst."
+      },
+      "intellectualProperty": {
+        "title": "Geistiges Eigentum",
+        "content": "Der CVBABA-Dienst und seine ursprünglichen Inhalte, Funktionen und Funktionalitäten sind Eigentum von CVBABA und durch internationale Urheberrechts-, Marken-, Patent-, Geschäftsgeheimnis- und andere Gesetze zum Schutz des geistigen Eigentums geschützt."
+      },
+      "termination": {
+        "title": "Kündigung",
+        "content": "Wir können Ihr Konto ohne vorherige Ankündigung oder Haftung nach unserem alleinigen Ermessen sofort kündigen oder sperren, aus welchem Grund auch immer, einschließlich, aber nicht beschränkt auf einen Verstoß gegen die Bedingungen."
+      },
+      "disclaimers": {
+        "title": "Haftungsausschluss",
+        "content": "Die Nutzung von CVBABA erfolgt auf eigenes Risiko. Der Dienst wird \"wie besehen\" und \"wie verfügbar\" bereitgestellt. Der Dienst wird ohne Gewährleistungen jeglicher Art, ausdrücklich oder implizit, bereitgestellt."
+      },
+      "limitationOfLiability": {
+        "title": "Haftungsbeschränkung",
+        "content": "In keinem Fall haftet CVBABA noch seine Direktoren, Mitarbeiter, Partner, Agenten, Lieferanten oder verbundenen Unternehmen für indirekte, zufällige, besondere, Folgeschäden oder Strafschäden, einschließlich, aber nicht beschränkt auf Verlust von Gewinnen, Daten, Nutzung, Goodwill oder anderen immateriellen Verlusten, die sich aus Ihrem Zugriff auf oder der Nutzung oder der Unfähigkeit zur Nutzung des Dienstes ergeben."
+      },
+      "governingLaw": {
+        "title": "Anwendbares Recht",
+        "content": "Diese Bedingungen unterliegen den Gesetzen der USA und werden in Übereinstimmung mit diesen ausgelegt, ohne Berücksichtigung von Kollisionsnormen."
+      },
+      "changesToTerms": {
+        "title": "Änderungen der Bedingungen",
+        "content": "Wir behalten uns das Recht vor, diese Bedingungen nach unserem alleinigen Ermessen jederzeit zu ändern oder zu ersetzen. Wir werden Sie über wesentliche Änderungen informieren, indem wir die neuen Bedingungen auf dieser Seite veröffentlichen."
+      },
+      "contactUs": {
+        "title": "Kontaktieren Sie uns",
+        "content": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>."
+      }
+    },
+    "lastUpdated": "Zuletzt aktualisiert:"
+  },
+  "navbar": {
+    "home": "Startseite",
+    "blog": "Blog",
+    "pricing": "Preise",
+    "contact": "Kontakt",
+    "talkToCVBABA": "Mit CVBABA sprechen",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "menu": "Menü"
+  },
+  "registerForm": {
+    "headerSubtitle": "Schließen Sie sich Tausenden von Fachleuten an, die ihr Karrierepotenzial entfalten",
+    "title": "Registrieren",
+    "orRegisterWithEmail": "Oder registrieren Sie sich mit E-Mail",
+    "fullNameLabel": "Vollständiger Name",
+    "fullNamePlaceholder": "Max Mustermann",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "ihre@email.com",
+    "passwordLabel": "Passwort",
+    "showPassword": "Passwort anzeigen",
+    "hidePassword": "Passwort verbergen",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto? Anmelden",
+    "createAccountButton": "Konto erstellen",
+    "successMessage": "Registrierung erfolgreich! Eine Bestätigungs-E-Mail wurde an Ihre E-Mail-Adresse gesendet. Bitte bestätigen Sie Ihre E-Mail, um die Registrierung abzuschließen.",
+    "termsText": "Durch die Erstellung eines Kontos stimmen Sie unseren",
+    "termsLink": "Nutzungsbedingungen",
+    "and": "und",
+    "privacyLink": "Datenschutzrichtlinie",
+    "helpText": "Brauchen Sie Hilfe?",
+    "contactSupport": "Support kontaktieren",
+    "buttonLabels": {
+      "google": "Mit Google fortfahren",
+      "linkedin": "Mit LinkedIn fortfahren"
+    },
+    "errors": {
+      "default": "Registrierung nicht möglich. Bitte überprüfen Sie Ihre Informationen und versuchen Sie es erneut.",
+      "unexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+      "socialRegister": "Verbindung zu {provider} nicht möglich. Bitte versuchen Sie es erneut oder wählen Sie eine andere Option."
+    }
+  },
+  "resetPasswordForm": {
+    "title": "Passwort zurücksetzen",
+    "instructions": "Gib deine E-Mail-Adresse ein und wir senden dir Anweisungen zum Zurücksetzen deines Passworts.",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "deine@email.com",
+    "sendButton": "Senden",
+    "successTitle": "Überprüfe deine E-Mails",
+    "successMessage": "Wir haben Anweisungen zum Zurücksetzen des Passworts an :",
+    "backToLogin": "Zurück zur Anmeldung",
+    "errors": {
+      "default": "Deine Anfrage konnte nicht verarbeitet werden. Bitte versuche es erneut.",
+      "unexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
+    }
+  },
+  "updatePasswordForm": {
+    "title": "Passwort aktualisieren",
+    "instructions": "Bitte gib dein neues Passwort unten ein.",
+    "newPasswordLabel": "Neues Passwort",
+    "newPasswordPlaceholder": "••••••••",
+    "confirmPasswordLabel": "Neues Passwort bestätigen",
+    "confirmPasswordPlaceholder": "••••••••",
+    "updatePasswordButton": "Passwort aktualisieren",
+    "backToLogin": "Zurück zur Anmeldung",
+    "showPassword": "Passwort anzeigen",
+    "hidePassword": "Passwort verbergen",
+    "successMessage": "Dein Passwort wurde erfolgreich aktualisiert! Du kannst dich jetzt mit deinem neuen Passwort anmelden.",
+    "errors": {
+      "passwordsDoNotMatch": "Die Passwörter stimmen nicht überein.",
+      "missingToken": "Der Reset-Token fehlt. Bitte überprüfe deinen Reset-Link.",
+      "default": "Das Passwort konnte nicht aktualisiert werden. Bitte versuche es erneut.",
+      "unexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut."
+    },
+    "signInButton": "Anmelden"
+  },
+  "resendVerification": {
+    "title": "Bestätigungs-E-Mail erneut senden",
+    "instructions": "Gib deine E-Mail-Adresse ein, um die Bestätigungs-E-Mail erneut zu senden.",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "deine@email.com",
+    "submitButton": "Absenden",
+    "successMessage": "Die Bestätigungs-E-Mail wurde erfolgreich erneut gesendet. Bitte überprüfe deinen Posteingang.",
+    "errors": {
+      "default": "Die Bestätigungs-E-Mail konnte nicht erneut gesendet werden. Bitte versuche es erneut.",
+      "unexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
+    }
+  },
+  "emailVerification": {
+    "loadingMessage": "Deine E-Mail-Adresse wird überprüft...",
+    "successTitle": "E-Mail erfolgreich verifiziert!",
+    "successMessage": "Deine E-Mail wurde verifiziert. Du kannst dich jetzt in deinem Konto anmelden.",
+    "signInButton": "Anmelden",
+    "errorTitle": "Verifizierung fehlgeschlagen",
+    "returnToLogin": "Zurück zur Anmeldung",
+    "contactSupport": "Support kontaktieren",
+    "needHelp": "Brauchst du Hilfe?",
+    "errors": {
+      "missingToken": "Der Verifizierungs-Token fehlt. Bitte überprüfe deinen Verifizierungs-Link.",
+      "default": "Die E-Mail-Verifizierung ist fehlgeschlagen. Bitte versuche es erneut.",
+      "unexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut."
+    }
+  },
+  "chatHistory": {
+    "editTitleAriaLabel": "Chat-Titel bearbeiten",
+    "saveButton": "Speichern",
+    "saveButtonAriaLabel": "Änderungen speichern",
+    "cancelButton": "Abbrechen",
+    "cancelButtonAriaLabel": "Änderungen abbrechen",
+    "editButtonAriaLabel": "Chat-Titel bearbeiten",
+    "deleteButtonAriaLabel": "Chat löschen",
+    "confirmDeleteButtonAriaLabel": "Chat-Löschung bestätigen",
+    "cancelDeleteButtonAriaLabel": "Chat-Löschung abbrechen",
+    "editSuccessMessage": "Der Chat-Titel wurde erfolgreich aktualisiert!",
+    "editErrorMessage": "Der Chat-Titel konnte nicht aktualisiert werden.",
+    "deleteSuccessMessage": "Der Chat wurde erfolgreich gelöscht!",
+    "deleteErrorMessage": "Der Chat konnte nicht gelöscht werden."
+  },
+  "sidebar": {
+    "newCVButton": "Neuer Lebenslauf",
+    "searchPlaceholder": "Lebensläufe durchsuchen...",
+    "historyTitle": "Verlauf",
+    "noChatsFound": "Keine Chats gefunden.",
+    "errors": {
+      "apiBaseUrlNotDefined": "Die API-Basis-URL ist nicht definiert.",
+      "failedToLoadChats": "Die Chats konnten nicht geladen werden. Bitte versuche es erneut."
+    },
+    "menuAriaLabel": "Menü",
+    "menuTooltip": "Menü",
+    "profileMenuItem": "Profil",
+    "settingsMenuItem": "Allgemein",
+    "billingMenuItem": "Abrechnung",
+    "communityMenuItem": "Community",
+    "feedbackMenuItem": "Feedback",
+    "notificationsAriaLabel": "Benachrichtigungen",
+    "notificationsTooltip": "Benachrichtigungen",
+    "logoutAriaLabel": "Abmelden",
+    "logoutTooltip": "Abmelden"
+  },
+  "feedbackModal": {
+    "title": "Wir schätzen dein Feedback",
+    "description": "Dein Feedback hilft uns, unsere Dienste zu verbessern. Bitte nimm dir einen Moment Zeit, um uns deine Gedanken mitzuteilen.",
+    "thankYouTitle": "Vielen Dank",
+    "thankYouHeading": "Vielen Dank für dein Feedback!",
+    "thankYouMessage": "Wir schätzen deine Meinung.",
+    "closeButton": "Schließen",
+    "subjectLabel": "Betreff",
+    "messagePlaceholder": "Schreibe deine Nachricht hier...",
+    "submitButton": "Absenden",
+    "submittingButton": "Wird gesendet...",
+    "errors": {
+      "invalidSubject": "Bitte wähle einen gültigen Betreff.",
+      "messageRequired": "Eine Nachricht ist erforderlich.",
+      "submissionError": "Fehler beim Absenden des Formulars: {error}",
+      "unknownError": "Unbekannter Fehler",
+      "unexpectedError": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut."
+    },
+    "subjects": {
+      "general": {
+        "label": "Allgemeine Anfrage",
+        "description": "Teile uns allgemeine Fragen oder Kommentare mit"
+      },
+      "technical": {
+        "label": "Technischer Support",
+        "description": "Hilfe bei technischen Problemen"
+      },
+      "billing": {
+        "label": "Frage zur Abrechnung",
+        "description": "Fragen zu Abrechnung oder Zahlungen"
+      },
+      "feedback": {
+        "label": "Feedback",
+        "description": "Teile uns deine Erfahrungen und Vorschläge mit"
+      },
+      "other": {
+        "label": "Anderes",
+        "description": "Erzähle uns von anderen Themen"
+      }
+    }
+  },
+  "notificationsModal": {
+    "title": "Benachrichtigungen",
+    "noNotifications": "Keine Benachrichtigungen",
+    "checkBackLater": "Schauen Sie später nach neuen Benachrichtigungen",
+    "unreadCount": "{{count}} ungelesene Benachrichtigungen",
+    "unreadCount_one": "{{count}} ungelesene Benachrichtigung",
+    "unreadCount_other": "{{count}} ungelesene Benachrichtigungen",
+    "allRead": "Alle Benachrichtigungen wurden gelesen",
+    "markAllRead": "Alle als gelesen markieren",
+    "closeButton": "Schließen"
+  },
+  "notifications": {
+    "welcome": {
+      "title": "Willkommen bei CVBABA! 🎉",
+      "description": "Bereit zu glänzen? Erstellen Sie Ihren ersten Lebenslauf und beginnen Sie mit dem Chatten mit BABA AI. Lassen Sie uns Ihre Karriere unglaublich machen!"
+    },
+    "profileUpdate": {
+      "title": "Profilaktualisierung erfolgreich! 🌟",
+      "description": "Ihr Profil glänzt jetzt mit den neuesten Updates. Sie sind startklar!"
+    },
+    "newFeature": {
+      "title": "Aufregendes neues Feature! 🚀",
+      "description": "Entdecken Sie unsere brandneuen Lebenslaufvorlagen! Ihr Lebenslauf steht vor einem großen Upgrade."
+    },
+    "error": {
+      "fetch": "Ups! Wir konnten Ihre Benachrichtigungen im Moment nicht laden. Bitte versuchen Sie es später noch einmal. 😞"
+    },
+    "title": "Ihr Benachrichtigungszentrum 📢",
+    "empty": "Noch keine Benachrichtigungen. Bleiben Sie dran für aufregende Updates! 🎈",
+    "markAsRead": "Als gelesen markieren ✔️",
+    "time": {
+      "justNow": "Gerade eben ⏰",
+      "hoursAgo": "Vor {{hours}} Stunden 🕒",
+      "yesterday": "Gestern 📅",
+      "dateFormat": "MMM d, yyyy",
+      "invalidDate": "Hmm, dieses Datum sieht etwas seltsam aus. 🤔"
+    }
+  },
+  "thinkingIndicator": {
+    "fullText": "Warten Sie ein paar Sekunden...",
+    "quotes": [
+      "Eine leere Seite ist keine Leere, die gefüllt werden muss, sondern ein heiliger Raum, in dem Inspiration keimt",
+      "Kunst entsteht aus Geduld und Ausdauer, wie eine Blume, die langsam blüht",
+      "Schreiben ist, die Zeit in ewige Worte zu meißeln - jeder Satz ist ein Sieg über die Ungeduld",
+      "Ausdauer ist die Brücke zwischen Traum und Verwirklichung",
+      "Zu lieben bedeutet auch, mit Anmut und Vertrauen zu warten",
+      "Ein Meisterwerk entsteht Sekunde für Sekunde in der Alchemie von Zeit und Leidenschaft",
+      "Geduld ist kein passives Warten, sondern die Kunst, den inneren Garten zu pflegen",
+      "Auf der Leinwand des Lebens verdient jeder Pinselstrich Betrachtung",
+      "Die schönsten Geschichten werden mit der Tinte der Ausdauer geschrieben",
+      "In der Stille der Schöpfung tanzen Liebe und Geduld zusammen",
+      "Die Hand, die die Buchstaben zeichnet, muss manchmal ruhen, um besser mit den Worten zu tanzen",
+      "Ausdauer zu haben bedeutet, seinen Traum genug zu lieben, um ihm Zeit zum Reifen zu geben",
+      "Das Herz des Schöpfers schlägt im Rhythmus von drei Tugenden: Geduld, Ausdauer, Leidenschaft",
+      "Zwischen zwei Zeilen eines Gedichts verbergen sich Stunden der Stille und Aufmerksamkeit",
+      "Ein Roman entsteht aus einer Vielzahl von 'Vielleichts', die durch Beharrlichkeit in 'Ja' verwandelt werden",
+      "Wahre Kunst ist ein Marathon, bei dem jeder Schritt mehr zählt als die Ziellinie",
+      "Das Schaffen zu lieben bedeutet, Neuanfänge zu umarmen, ohne die Flamme zu verlieren",
+      "Die schönste Skulptur ist die, die die Zeit Tag für Tag in der Seele des Künstlers meißelt",
+      "Die Worte werden kommen, wenn sie das geduldige Herz dessen hören, der auf sie wartet",
+      "In der Kathedrale der Schöpfung wird jeder Stein mit Liebe und Beharrlichkeit gelegt"
+    ]
+  },
+  "pdfPreview": {
+    "title": "PDF-Vorschau",
+    "generatePdf": "PDF generieren",
+    "pdfGenerated": "PDF generiert",
+    "edit": "Bearbeiten",
+    "save": "Speichern",
+    "saving": "Wird gespeichert...",
+    "downloadPdf": "PDF herunterladen",
+    "pdfPreviewTitle": "PDF-Vorschau",
+    "renderedHtmlTitle": "Gerenderter HTML-Inhalt",
+    "errorTitle": "Fehler",
+    "errorMessage": "Bei der Verarbeitung der Anfrage ist ein Fehler aufgetreten."
+  },
+  "generalComponent": {
+    "title": "Allgemeine Einstellungen",
+    "loading": "Einstellungen werden geladen...",
+    "success": {
+      "confidenceUpdated": "Das Vertrauen wurde erfolgreich aktualisiert!"
+    },
+    "errors": {
+      "loadSettingsFailed": "Die Einstellungen konnten nicht geladen werden.",
+      "updateFailed": "Das Aktualisieren von {field} ist fehlgeschlagen."
+    }
+  },
+  "resumeForm": {
+    "outputLanguage": "Ausgabesprache",
+    "messageCvBaba": "Nachricht CVBABA...",
+    "atsOptimization": "ATS-Optimierung",
+    "privacyNote": "",
+    "includeProfessionalPhoto": "Foto einbeziehen",
+    "uploadProfessionalPhoto": "Professionelles Foto hochladen",
+    "clickToUpdatePhoto": "Klicken Sie auf das Bearbeitungssymbol, um Ihr Foto zu aktualisieren",
+    "creating": "Wird erstellt...",
+    "create": "Erstellen",
+    "useTemplate": "Vorlage verwenden",
+    "textToDoc": "Text zu Dokument",
+    "pasteJobDescription": "Fügen Sie die Stellenbeschreibung hier ein...",
+    "pleaseFillPreferences": "Bitte {{action}} füllen Sie Ihre Präferenzen aus, um fortzufahren.",
+    "selectTemplateAnd": "wählen Sie eine Vorlage aus und ",
+    "english": "Englisch",
+    "french": "Französisch",
+    "spanish": "Spanisch",
+    "german": "Deutsch",
+    "italian": "Italienisch",
+    "portuguese": "Portugiesisch",
+    "dutch": "Niederländisch",
+    "russian": "Russisch",
+    "chinese": "Chinesisch",
+    "japanese": "Japanisch",
+    "korean": "Koreanisch",
+    "arabic": "العربية (Arabisch)",
+    "hindi": "हिन्दी (Hindi)",
+    "turkish": "Türkçe (Türkisch)",
+    "polish": "Polski (Polnisch)",
+    "swedish": "Svenska (Schwedisch)",
+    "finnish": "Suomi (Finnisch)",
+    "norwegian": "Norsk (Norwegisch)",
+    "danish": "Dansk (Dänisch)",
+    "czech": "Čeština (Tschechisch)",
+    "greek": "Ελληνικά (Griechisch)"
+  },
+  "updatePassword": {
+    "botMessage1": "🔒 Lassen Sie uns Ihr Passwort aktualisieren, um Ihr Konto zu sichern.",
+    "optionYesUpdate": "Ja, lassen Sie uns aktualisieren!",
+    "optionNeedHelp": "Brauchen Sie Hilfe?",
+    "updatingPassword": "Ihr Passwort wird aktualisiert...",
+    "errorMissingToken": "❌ Der Reset-Token fehlt. Bitte überprüfen Sie Ihren Reset-Link.",
+    "errorPasswordsMismatch": "❌ Die Passwörter stimmen nicht überein. Bitte versuchen Sie es erneut.",
+    "successPasswordUpdated": "🎉 Passwort erfolgreich aktualisiert! Sie können sich jetzt mit Ihrem neuen Passwort anmelden.",
+    "goToLoginPrompt": "Möchten Sie zur Anmeldeseite gehen?",
+    "optionYesLogin": "Ja, bringen Sie mich zur Anmeldung",
+    "optionLater": "Ich mache es später",
+    "errorDefault": "Das Passwort konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.",
+    "tryAgainPrompt": "Möchten Sie es erneut versuchen?",
+    "optionTryAgain": "Ja, lassen Sie mich es erneut versuchen",
+    "optionContactSupport": "Support kontaktieren",
+    "errorUnexpected": "❌ Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.",
+    "confirmNewPassword": "Großartig! Bestätigen Sie nun Ihr neues Passwort.",
+    "readyToUpdate": "Bereit, Ihr Passwort zu aktualisieren?",
+    "optionUpdateNow": "Ja, jetzt aktualisieren",
+    "optionChangeSomething": "Ich muss etwas ändern",
+    "enterNewPassword": "Bitte geben Sie Ihr neues Passwort ein:",
+    "whatToChange": "Was möchten Sie ändern?",
+    "optionNewPassword": "Neues Passwort",
+    "optionConfirmPassword": "Passwort bestätigen",
+    "enterField": "Bitte geben Sie Ihr {{field}} ein:",
+    "sendButton": "Senden",
+    "assistantTitle": "Passwort-Reset-Assistent",
+    "aiPowered": "KI-gestützte Passwortzurücksetzung"
+  },
+  "resetPassword": {
+    "botMessage1": "🔒 Setzen wir Ihr Passwort sicher zurück! Bitte geben Sie Ihre E-Mail-Adresse ein, um zu beginnen.",
+    "successMessage": "🎉 Wir haben Anweisungen zum Zurücksetzen des Passworts an : ",
+    "optionResendEmail": "E-Mail erneut senden",
+    "optionBackToLogin": "Zurück zur Anmeldung",
+    "errorDefault": "Ihre Anfrage konnte nicht verarbeitet werden. Bitte versuchen Sie es erneut.",
+    "optionTryAgain": "Erneut versuchen",
+    "optionContactSupport": "Support kontaktieren",
+    "errorUnexpected": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "sendButton": "Senden",
+    "assistantTitle": "Passwort-Reset-Assistent",
+    "aiPoweredAssistance": "KI-gestützte Unterstützung"
+  },
+  "register": {
+    "botMessage1": "👋 Hallo! Ich bin CVBABA, Ihr CV-Assistent. Lassen Sie uns mit der Erstellung Ihres professionellen Profils beginnen!",
+    "optionEmail": "Mit E-Mail registrieren",
+    "optionGoogle": "Mit Google registrieren",
+    "optionLinkedIn": "Mit LinkedIn registrieren",
+    "connectingToProvider": "🔗 Verbindung zu {{provider}}...",
+    "errorProviderConnection": "Fehler beim Abrufen der Registrierungs-URL für {{provider}}",
+    "errorProviderRetry": "❌ Verbindung zu {{provider}} fehlgeschlagen. Möchten Sie eine andere Methode ausprobieren?",
+    "optionTryAgain": "Erneut mit {{provider}} versuchen",
+    "optionNeedHelp": "Brauchen Sie Hilfe?",
+    "processingRegistration": "⏳ Ihre Registrierung wird verarbeitet...",
+    "successRegistration": "🎉 Registrierung erfolgreich! Eine Bestätigungs-E-Mail wurde an Ihre E-Mail-Adresse gesendet. Bitte bestätigen Sie Ihre E-Mail, um die Registrierung abzuschließen.",
+    "errorDefault": "Registrierung fehlgeschlagen. Bitte überprüfen Sie Ihre Informationen und versuchen Sie es erneut.",
+    "tryAgainPrompt": "Möchten Sie es erneut versuchen?",
+    "optionFixIt": "Ja, lassen Sie mich es korrigieren",
+    "optionContactSupport": "Support kontaktieren",
+    "errorUnexpected": "❌ Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.",
+    "botMessageFullName": "👋 Schön, Sie kennenzulernen, {{value}}! Wie lautet Ihre E-Mail-Adresse?",
+    "botMessageEmail": "📧 Verstanden! Erstellen Sie nun ein sicheres Passwort, um Ihr Konto zu schützen.",
+    "botMessagePassword": "🔒 Perfekt! Bereit, Ihr Konto zu erstellen?",
+    "optionRegisterNow": "Ja, jetzt registrieren",
+    "optionChangeSomething": "Ich muss etwas ändern",
+    "botMessageStart": "📝 Lassen Sie uns beginnen! Wie lautet Ihr vollständiger Name?",
+    "botMessageChangeSomething": "🛠️ Kein Problem! Was möchten Sie ändern?",
+    "optionFullName": "Vollständiger Name",
+    "optionEmailField": "E-Mail",
+    "optionPassword": "Passwort",
+    "botMessageEnterNew": "✏️ Bitte geben Sie Ihr neues {{field}} ein:",
+    "placeholderEnterField": "Geben Sie Ihr {{field}} ein",
+    "sendButton": "Senden",
+    "assistantTitle": "Registrierungsassistent",
+    "aiPoweredRegistration": "KI-gestützte Registrierung"
+  },
+  "meta": {
+    "language": "de",
+    "title": "CVBABA: Mühelose Lebensläufe und Anschreiben für Jobs weltweit",
+    "description": "In Minuten bereit für den Job mit CVBABA! Unsere KI-gestützte Plattform hilft Ihnen, professionelle Lebensläufe und Anschreiben für globale Chancen zu erstellen. Schnell, einfach und darauf ausgelegt, Ihnen zum Erfolg zu verhelfen.",
+    "og": {
+      "title": "CVBABA: Mühelose Lebensläufe und Anschreiben für Jobs weltweit",
+      "description": "In Minuten bereit für den Job mit CVBABA! Unsere KI-gestützte Plattform hilft Ihnen, professionelle Lebensläufe und Anschreiben für globale Chancen zu erstellen. Schnell, einfach und darauf ausgelegt, Ihnen zum Erfolg zu verhelfen.",
+      "imageAlt": "CVBABA Open Graph Bild"
+    },
+    "twitter": {
+      "title": "CVBABA: Mühelose Lebensläufe und Anschreiben für Jobs weltweit",
+      "description": "In Minuten bereit für den Job mit CVBABA! Unsere KI-gestützte Plattform hilft Ihnen, professionelle Lebensläufe und Anschreiben für globale Chancen zu erstellen. Schnell, einfach und darauf ausgelegt, Ihnen zum Erfolg zu verhelfen."
+    }
+  },
+  "templateSelector": {
+    "useThisTemplate": "Klicken Sie, um diese Vorlage zu verwenden",
+    "selected": "Ausgewählt",
+    "upgradeToPro": "Aktualisieren",
+    "pro": "PRO",
+    "preview": "Vorschau"
+  },
+  "billing": {
+    "errors": {
+      "fetchSubscription": "Abonnementdaten abrufen",
+      "loadSubscription": "",
+      "cancellation": "Fehler bei der Kündigung",
+      "chat": "Chatte mit CVBABA",
+      "cancelSubscription": "Abonnement kann nicht gekündigt werden",
+      "loadingError": "Laden... ",
+      "loadingMessage": ""
+    },
+    "success": {
+      "subscriptionCancelled": "Ihr Abonnement wurde erfolgreich gekündigt"
+    },
+    "time": {
+      "justNow": "Gerade eben",
+      "minutesAgo": "Vor {{minutes}} Min",
+      "hoursAgo": "Vor {{hours}} Std",
+      "daysAgo": "Vor {{days}} Tag{{plural ? 'en' : ''}}"
+    },
+    "headers": {
+      "billingOverview": "Abrechnungsübersicht",
+      "manageSubscription": "Verwaltung Ihres {{plan}}-Abonnements"
+    },
+    "buttons": {
+      "retry": "Erneut versuchen",
+      "cancelSubscription": "Abonnement kündigen",
+      "cancel": "Abbrechen",
+      "confirmCancel": "Kündigung bestätigen",
+      "modifyPlan": "Plan ändern",
+      "reactivate": "Reaktivieren",
+      "buyCredits": "Mehr Guthaben kaufen"
+    },
+    "modal": {
+      "cancelTitle": "Kündigung bestätigen",
+      "cancelConfirmation": "Sind Sie sicher, dass Sie Ihr Abonnement kündigen möchten? Ihr verbleibendes Guthaben bleibt erhalten."
+    },
+    "plan": {
+      "title": "{{type}}-Plan",
+      "status": {
+        "active": "Aktiv",
+        "inactive": "Inaktiv"
+      },
+      "created": "Erstellt",
+      "lastUpdated": "Zuletzt aktualisiert"
+    },
+    "credits": {
+      "title": "Verfügbares Guthaben",
+      "subtitle": "Nutzung im aktuellen Zyklus",
+      "tooltip": "Guthaben wird mit Ihrem nächsten Abrechnungszyklus erneuert"
+    }
+  }
+}

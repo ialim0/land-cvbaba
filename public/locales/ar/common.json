@@ -1,0 +1,21 @@
+{
+    "loginForm": {
+      "headerSubtitle": "انضم إلى الآلاف من المهنيين الذين يحققون إمكاناتهم المهنية",
+      "accessTitle": "وصول سريع وسهل",
+      "accessSubtitle": "اختر طريقة تسجيل الدخول المفضلة لديك",
+      "connecting": "جارٍ الاتصال...",
+      "termsText": "بمتابعة الاستخدام، فإنك توافق على",
+      "termsLink": "شروط الخدمة",
+      "and": "و",
+      "privacyLink": "سياسة الخصوصية",
+      "helpText": "تحتاج إلى مساعدة؟",
+      "contactSupport": "اتصل بالدعم",
+      
+      "buttonLabels": {
+        "google": "متابعة باستخدام Google",
+        "linkedin": "متابعة باستخدام LinkedIn",
+        "facebook": "متابعة باستخدام Facebook"
+      }
+    }
+  }
+  

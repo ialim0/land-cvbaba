@@ -1,0 +1,29 @@
+{
+    "newsletterTitle": "加入我们的职业成长社区",
+    "newsletterSubtitle": "注册以获取顶级职业建议、专业成长策略和精选资源。",
+    "newsletterSuccessTitle": "您已加入！",
+    "newsletterSuccessMessage": "准备好接收宝贵的职业见解和独家资源。",
+    "newsletterPlaceholder": "输入您的电子邮件地址",
+    "newsletterButton": "立即加入",
+    "newsletterConsent": "我同意接收来自 CVBaba 的电子邮件更新和资源。",
+    "newsletterError": "请输入您的电子邮件地址并同意条款。",
+    "newsletterUnexpectedError": "发生意外错误，请重试。",
+    "aboutTitle": "关于 CVBABA",
+    "aboutContent": "在 CVBABA，我们利用 AI 的力量，将您的简历转变为吸引雇主的引人入胜的故事。",
+    "resourcesTitle": "资源",
+    "resourcesLinks": {
+      "home": "主页",
+      "blog": "博客",
+      "contact": "联系我们"
+    },
+    "legalTitle": "法律信息",
+    "legalLinks": {
+      "faq": "常见问题",
+      "privacy": "隐私政策",
+      "terms": "服务条款"
+    },
+    "stayConnectedTitle": "保持联系",
+    "stayConnectedContent": "关注我们的社交媒体，获取最新趋势和见解。",
+    "footerCopyright": "版权所有。"
+  }
+  

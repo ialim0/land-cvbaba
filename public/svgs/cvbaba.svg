@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Document outline -->
+  <path 
+    d="M16 8C12.686 8 10 10.686 10 14V114C10 117.314 12.686 120 16 120H88C91.314 120 94 117.314 94 114V36L68 10H16Z" 
+    fill="transparent" 
+    stroke="#EFF6FF" 
+    stroke-width="3" 
+    stroke-linejoin="round"
+  />
+  
+  <!-- Folded corner -->
+  <path 
+    d="M94 36H72C69.79 36 68 34.21 68 32V10L94 36Z" 
+    fill="transparent" 
+    stroke="#EFF6FF" 
+    stroke-width="3"
+  />
+  
+  <!-- Letter A components -->
+  <!-- Left diagonal -->
+  <path 
+    d="M52 48C52 48 41 74 40 80" 
+    stroke="#EFF6FF" 
+    stroke-width="4" 
+    stroke-linecap="round"
+  />
+  
+  <!-- Right diagonal -->
+  <path 
+    d="M52 48C52 48 63 74 64 80" 
+    stroke="#EFF6FF" 
+    stroke-width="4" 
+    stroke-linecap="round"
+  />
+  
+  <!-- Top dot -->
+  <circle 
+    cx="52" 
+    cy="48" 
+    r="3" 
+    fill="#EFF6FF"
+  />
+  
+  <!-- Crossbar -->
+  <path 
+    d="M46 68H58" 
+    stroke="#EFF6FF" 
+    stroke-width="4" 
+    stroke-linecap="round"
+  />
+</svg>

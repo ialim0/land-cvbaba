@@ -1,0 +1,29 @@
+{
+    "newsletterTitle": "Gå med i vårt nätverk för karriärutveckling",
+    "newsletterSubtitle": "Registrera dig för att få de bästa karriärtipsen, strategier för professionell tillväxt och utvalda resurser.",
+    "newsletterSuccessTitle": "Du är med!",
+    "newsletterSuccessMessage": "Förbered dig på att ta emot värdefulla insikter om karriär och exklusiva resurser.",
+    "newsletterPlaceholder": "Ange din e-postadress",
+    "newsletterButton": "Gå med nu",
+    "newsletterConsent": "Jag godkänner att ta emot e-postuppdateringar och resurser från CVBaba.",
+    "newsletterError": "Ange din e-postadress och godkänn villkoren.",
+    "newsletterUnexpectedError": "Ett oväntat fel inträffade. Försök igen.",
+    "aboutTitle": "Om CVBABA",
+    "aboutContent": "På CVBABA använder vi AI:s kraft för att förvandla ditt CV till en fängslande berättelse som imponerar på arbetsgivare.",
+    "resourcesTitle": "Resurser",
+    "resourcesLinks": {
+      "home": "Hem",
+      "blog": "Blogg",
+      "contact": "Kontakta oss"
+    },
+    "legalTitle": "Juridisk information",
+    "legalLinks": {
+      "faq": "Vanliga frågor",
+      "privacy": "Integritetspolicy",
+      "terms": "Användarvillkor"
+    },
+    "stayConnectedTitle": "Håll kontakten",
+    "stayConnectedContent": "Följ oss på sociala medier för att hålla dig uppdaterad med de senaste trenderna och insikterna.",
+    "footerCopyright": "Alla rättigheter förbehållna."
+  }
+  

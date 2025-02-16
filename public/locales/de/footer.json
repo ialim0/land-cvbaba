@@ -1,0 +1,29 @@
+{
+  "newsletterTitle": "Tritt unserer Karriere-Community bei",
+  "newsletterSubtitle": "Melde dich an, um top Karrieretipps, Strategien für berufliches Wachstum und ausgewählte Ressourcen zu erhalten.",
+  "newsletterSuccessTitle": "Du bist dabei!",
+  "newsletterSuccessMessage": "Bereite dich darauf vor, wertvolle Karriere-Einblicke und exklusive Ressourcen zu erhalten.",
+  "newsletterPlaceholder": "Gib deine E-Mail-Adresse ein",
+  "newsletterButton": "Jetzt beitreten",
+  "newsletterConsent": "Ich stimme zu, E-Mail-Updates und Ressourcen von CVBABA zu erhalten.",
+  "newsletterError": "Bitte gib deine E-Mail-Adresse ein und stimme den Bedingungen zu.",
+  "newsletterUnexpectedError": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut.",
+  "aboutTitle": "Über CVBABA",
+  "aboutContent": "Bei CVBABA nutzen wir die Kraft der KI, um deinen Lebenslauf in eine fesselnde Geschichte zu verwandeln, die Arbeitgeber beeindruckt.",
+  "resourcesTitle": "Ressourcen",
+  "resourcesLinks": {
+    "home": "Startseite",
+    "contact": "Kontakt",
+    "pricing": "Preise",
+    "blog": "Blog"
+  },
+  "legalTitle": "Rechtliches",
+  "legalLinks": {
+    "faq": "FAQ",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen"
+  },
+  "stayConnectedTitle": "Bleib verbunden",
+  "stayConnectedContent": "Folge uns in den sozialen Medien und bleibe auf dem Laufenden über die neuesten Trends und Einblicke.",
+  "footerCopyright": "Alle Rechte vorbehalten."
+}

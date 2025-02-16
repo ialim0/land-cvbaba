@@ -1,0 +1,29 @@
+{
+  "newsletterTitle": "Unisciti alla nostra Community di Crescita Professionale",
+  "newsletterSubtitle": "Iscriviti per rimanere informato con i migliori consigli di carriera, strategie di crescita professionale e risorse selezionate.",
+  "newsletterSuccessTitle": "Sei dentro!",
+  "newsletterSuccessMessage": "Preparati a ricevere preziosi approfondimenti sulla carriera e risorse esclusive.",
+  "newsletterPlaceholder": "Inserisci il tuo indirizzo email",
+  "newsletterButton": "Iscriviti Ora",
+  "newsletterConsent": "Accetto di ricevere aggiornamenti via email e risorse da CVBABA.",
+  "newsletterError": "Inserisci la tua email e accetta i termini.",
+  "newsletterUnexpectedError": "Si è verificato un errore imprevisto. Riprova.",
+  "aboutTitle": "Informazioni su CVBABA",
+  "aboutContent": "In CVBABA, sfruttiamo il potere dell'IA per trasformare il tuo curriculum in una storia avvincente che conquista i datori di lavoro.",
+  "resourcesTitle": "Risorse",
+  "resourcesLinks": {
+    "home": "Home",
+    "contact": "Contatti",
+    "pricing": "Prezzi",
+    "blog": "Blog"
+  },
+  "legalTitle": "Legale",
+  "legalLinks": {
+    "faq": "FAQ",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Servizio"
+  },
+  "stayConnectedTitle": "Resta Connesso",
+  "stayConnectedContent": "Seguici sui social media e rimani aggiornato con le ultime tendenze e approfondimenti.",
+  "footerCopyright": "Tutti i diritti riservati."
+}

@@ -1,0 +1,20 @@
+{
+  "loginForm": {
+    "headerSubtitle": "Gå med tusentals yrkesverksamma som frigör sin karriärpotential",
+    "accessTitle": "Snabb och enkel åtkomst",
+    "accessSubtitle": "Välj din föredragna inloggningsmetod",
+    "connecting": "Ansluter...",
+    "termsText": "Genom att fortsätta godkänner du våra",
+    "termsLink": "Användarvillkor",
+    "and": "och",
+    "privacyLink": "Integritetspolicy",
+    "helpText": "Behöver du hjälp?",
+    "contactSupport": "Kontakta support",
+    
+    "buttonLabels": {
+      "google": "Fortsätt med Google",
+      "linkedin": "Fortsätt med LinkedIn",
+      "facebook": "Fortsätt med Facebook"
+    }
+  }
+}

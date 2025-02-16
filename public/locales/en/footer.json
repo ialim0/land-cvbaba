@@ -1,0 +1,29 @@
+{
+  "newsletterTitle": "Join Our Career Growth Community",
+  "newsletterSubtitle": "Sign up to stay informed with top career tips, professional growth strategies, and curated resources.",
+  "newsletterSuccessTitle": "You're in!",
+  "newsletterSuccessMessage": "Get ready to receive valuable career insights and exclusive resources.",
+  "newsletterPlaceholder": "Enter your email address",
+  "newsletterButton": "Join Now",
+  "newsletterConsent": "I agree to receive email updates and resources from CVBABA.",
+  "newsletterError": "Please enter your email and agree to the terms.",
+  "newsletterUnexpectedError": "An unexpected error occurred. Please try again.",
+  "aboutTitle": "About CVBABA",
+  "aboutContent": "At CVBABA, we harness the power of AI to transform your resume into a compelling story that captivates employers.",
+  "resourcesTitle": "Resources",
+  "resourcesLinks": {
+    "home": "Home",
+    "contact": "Contact",
+    "pricing": "Pricing",
+    "blog": "Blog"
+  },
+  "legalTitle": "Legal",
+  "legalLinks": {
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "stayConnectedTitle": "Stay Connected",
+  "stayConnectedContent": "Follow us on social media and stay updated with the latest trends and insights.",
+  "footerCopyright": "All rights reserved."
+}

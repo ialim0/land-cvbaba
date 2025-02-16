@@ -1,0 +1,972 @@
+{
+  "Gmorning": "Buenos días",
+  "Gafternoon": "Buenas tardes",
+  "Gevening": "Buenas noches",
+
+  "hero": {
+    "title": "Transforma tu carrera con solo una conversación",
+    "subtitle": "Crea currículos y cartas de presentación optimizados para ATS en un abrir y cerrar de ojos – solo indica, edita e impresiona a empresas de todo el mundo con facilidad.",
+    "ctaButton": "Prueba CVBABA",
+    "ctaAriaLabel": "Prueba CVBABA",
+    "noCreditCardRequired": "Sin riesgos: Comienza gratis, mejora en cualquier momento",
+    "watchDemo": "Ver demo",
+    "benefit1": "Vence a los Bots: Currículos optimizados ATS que ocupan el primer lugar",
+    "benefit2": "Éxito rápido: Crea documentos pulidos en <2 minutos",
+    "benefit3": "Alcance global: Soporte multilingüe para más de 20 idiomas",
+    "badge": "BABA AI"
+  },
+  "features": {
+    "title": "Transforma cualquier idea en realidad, un prompt a la vez.",
+    "subtitle": "Crea currículums impactantes y cartas de presentación personalizadas con herramientas diseñadas para hacer tu búsqueda de empleo fácil y efectiva.",
+    "items": [
+      {
+        "title": "Optimización de currículum con IA",
+        "description": "Proporciona tu prompt, y nuestra IA creará todo lo que necesitas."
+      },
+      {
+        "title": "Plantillas diseñadas profesionalmente",
+        "description": "Accede a plantillas ilimitadas para un aspecto único y pulido."
+      },
+      {
+        "title": "Soporte multilingüe",
+        "description": "Llega a empleadores globales con currículums en varios idiomas."
+      },
+      {
+        "title": "Creación instantánea de currículum",
+        "description": "Proporciona tu prompt, y nuestra IA creará tu CV en menos de 2 minutos."
+      },
+      {
+        "title": "Diseños personalizables",
+        "description": "Personaliza cada detalle para que coincida con tu estilo profesional."
+      },
+      {
+        "title": "Compatible con ATS",
+        "description": "Aumenta tu visibilidad asegurándote de que tu currículum pase los filtros ATS."
+      }
+    ]
+  },
+  "chatPage": {
+    "title": "CVBABA Chat",
+    "description": "Habla sobre tu CV con CVBABA"
+  },
+  "metadata": {
+    "title": "CVBABA: CV y Cartas de Presentación Sin Esfuerzo para Trabajos Globales",
+    "description": "¡Prepárate para el trabajo en minutos con CVBABA! Nuestra plataforma impulsada por IA te ayuda a crear CV y cartas de presentación profesionales adaptados a oportunidades globales. Rápido, fácil y diseñado para que triunfes."
+  },
+
+  "testimonials": {
+    "title": "Lo que dicen nuestros usuarios",
+    "subtitle": "Descubre cómo CVBABA ha marcado la diferencia para buscadores de empleo de todas las industrias y antecedentes.",
+    "description": "Descubre cómo CVBABA ha marcado la diferencia para buscadores de empleo de todas las industrias y antecedentes."
+  },
+
+  "callToAction": {
+    "title": "¿Listo para crear tu currículum perfecto?",
+    "description": "Comienza tu viaje con CVBABA y transforma la forma en que abordas tu búsqueda de empleo. Hagámoslo más fácil juntos.",
+    "getStarted": "Prueba ahora →"
+  },
+
+  "loginForm": {
+    "headerSubtitle": "Únete a miles de profesionales que están desbloqueando su potencial profesional",
+    "accessTitle": "Acceso rápido y fácil",
+    "accessSubtitle": "Elige tu método de inicio de sesión preferido",
+    "connecting": "Conectando...",
+    "termsText": "Al continuar, aceptas nuestros",
+    "termsLink": "Términos de servicio",
+    "and": "y",
+    "privacyLink": "Política de privacidad",
+    "helpText": "¿Necesitas ayuda?",
+    "contactSupport": "Contactar con soporte",
+    "buttonLabels": {
+      "google": "Continuar con Google",
+      "linkedin": "Continuar con LinkedIn",
+      "facebook": "Continuar con Facebook"
+    },
+    "welcomeMessage": "¡Qué bueno verte de nuevo! Por favor, inicia sesión para continuar",
+    "title": "Iniciar sesión",
+    "orSignInWithEmail": "O inicia sesión con tu correo electrónico",
+    "emailLabel": "Dirección de correo electrónico",
+    "emailPlaceholder": "tucorreo@email.com",
+    "passwordLabel": "Contraseña",
+    "showPassword": "Mostrar contraseña",
+    "hidePassword": "Ocultar contraseña",
+    "createAccount": "Crear una cuenta",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "signInButton": "Iniciar sesión"
+  },
+
+  "loginPage": {
+    "heroTitle": "Potencia tu carrera con IA",
+    "heroSubtitle": "Descubre oportunidades en cualquier lugar, ¡estés donde estés! "
+  },
+
+  "cvPage": {
+    "loadingSidebar": "Cargando barra lateral...",
+    "loadingCVPage": "Cargando página de CV..."
+  },
+  "resumeChat": {
+    "supportMessage": "Con CVBABA, desbloquea oportunidades, dondequiera que estés.",
+    "upgradeToPro": "Mejorar nivel de IA",
+    "paymentError": "¡Pocos créditos!",
+    "paymentErrorMessage": "¿Listo para más? Mejora tu nivel de IA a continuación."
+  },
+  "errors": {
+    "loadUserProfile": "Error al cargar el perfil del usuario",
+    "provideResumeDescription": "Por favor, proporciona una descripción del currículum",
+    "submissionError": "Ocurrió un error al procesar tu solicitud. Por favor, inténtalo de nuevo.",
+    "assistantError": "Lo sentimos, hubo un error al procesar tu solicitud. Por favor, inténtalo de nuevo."
+  },
+  "pricing": {
+    "meta": {
+      "title": "CVBABA Precios - Planes Profesionales para Crear CV y Cartas de Presentación",
+      "description": "Elige el plan perfecto de CVBABA para tus necesidades profesionales. Paquetes asequibles para la creación de CV y cartas de presentación con herramientas impulsadas por IA y plantillas profesionales.",
+      "og": {
+        "title": "CVBABA Precios - Planes Profesionales para Crear CV y Cartas de Presentación",
+        "description": "Elige el plan perfecto de CVBABA para tus necesidades profesionales. Paquetes asequibles para la creación de CV y cartas de presentación con herramientas impulsadas por IA y plantillas profesionales.",
+        "imageAlt": "Planes de Precios de CVBABA"
+      },
+      "twitter": {
+        "title": "CVBABA Precios - Planes Profesionales para Crear CV y Cartas de Presentación",
+        "description": "Elige el plan perfecto de CVBABA para tus necesidades profesionales. Paquetes asequibles para la creación de CV y cartas de presentación con herramientas impulsadas por IA y plantillas profesionales."
+      }
+    },
+    "pricingHero": {
+      "title": "Impulsa tu futuro profesional con la ventaja de la IA",
+      "subtitle": "Elige tu ventaja en IA"
+    },
+    "promoBanner": {
+      "title": "¡Oferta Especial!",
+      "endsIn": "Termina en",
+      "claimOfferButton": "Reclamar Oferta"
+    },
+    "pricingtoggle": {
+      "monthly": "Mensual",
+      "annual": "Anual"
+    },
+    "plans": {
+      "mostPopular": "Más Popular",
+      "savePercentage": "Ahorra {{percentage}}%",
+      "billedAnnually": "Facturado anualmente a ${{annualPrice}} / año",
+      "noCreditCardRequired": "No se requiere tarjeta de crédito",
+      "whatYouGet": "Lo que Obtienes:",
+      "selectPlan": "Seleccionar plan {{planName}}",
+      "free_baba": {
+        "name": "Gratis BABA",
+        "description": "Perfecto para comenzar. Sin costo, sin compromiso.",
+        "buttonText": "Comenzar Gratis",
+        "features": ["25 Créditos de IA", "Acceso a Plantillas Básicas"]
+      },
+      "star_baba": {
+        "name": "Star BABA",
+        "description": "Ideal para individuos que necesitan más potencia para alcanzar sus objetivos.",
+        "buttonText": "Elegir Star",
+        "features": [
+          "200 Créditos de IA por Mes",
+          "Soporte Prioritario por Email"
+        ]
+      },
+      "pro_baba": {
+        "name": "Pro BABA",
+        "description": "Para profesionales que quieren desbloquear funciones avanzadas.",
+        "buttonText": "Elegir Pro",
+        "features": [
+          "500 Créditos de IA por Mes",
+          "Plantillas Avanzadas",
+          "Soporte Prioritario"
+        ]
+      },
+      "premium_baba": {
+        "name": "Premium BABA",
+        "description": "El plan definitivo para máxima productividad y soporte.",
+        "buttonText": "Elegir Premium",
+        "features": [
+          "1000 Créditos de IA por Mes",
+          "Desbloquear Todas las Plantillas",
+          "Soporte Personalizado 1-a-1"
+        ]
+      },
+      "default": {
+        "buttonText": "Elegir {{planName}}"
+      },
+      "billed_at_text": "Facturado anualmente a {{price}}"
+    },
+    "comparisonTable": {
+      "title": "Compara Nuestros Planes",
+      "features": {
+        "email": "Email",
+        "feature": "Característica",
+        "free": "Gratis BABA",
+        "priorityEmail": "Email Prioritario",
+        "priorityChat": "Prioritario + Chat",
+        "24_7Priority": "Prioridad 24/7",
+        "basicOnly": "Solo Básico",
+        "standard": "Estándar",
+        "advanced": "Avanzado",
+        "limited": "Limitado",
+        "unlimited": "Ilimitado",
+        "basic": {
+          "label": "Star BABA",
+          "badge": "Popular"
+        },
+        "pro": {
+          "label": "Pro BABA",
+          "badge": "Mejor Valor"
+        },
+        "premium": {
+          "label": "Premium BABA",
+          "badge": "Todas las Funciones"
+        }
+      },
+      "plans": {
+        "cta": "Elegir {{name}} - ${{price}}/mes",
+        "billedAnnually": {
+          "text": "Facturado anualmente a ${{price}} (ahorra {{discount}}%)"
+        }
+      },
+      "featuresComparison": {
+        "monthlyAICredits": "Créditos de IA Mensuales",
+        "templates": "Plantillas",
+        "quickCreation": "Creación Rápida",
+        "smartFormatting": "Formato Inteligente",
+        "documentUpdates": "Actualizaciones de Documentos",
+        "documentDownloads": "Descargas de Documentos",
+        "resumeAI": "CV con IA",
+        "coverLetterAI": "Carta de Presentación con IA",
+        "accessToZenAI": "Acceso a BABA AI",
+        "templateCustomization": "Personalización de Plantillas",
+        "atsOptimization": "Optimización ATS",
+        "interviewQASimulation": "Simulación de Entrevista Q&A (Próximamente)",
+        "customerSupport": "Atención al Cliente",
+        "dedicatedAccountManager": "Gestor de Cuenta Dedicado"
+      }
+    }
+  },
+  "trusted": {
+    "title": "Deja Tu Huella",
+    "description": "CVBABA te ayuda a cautivar a los equipos de selección en cualquier industria.",
+    "tips": {
+      "impact": {
+        "category": "Impacto",
+        "tip": "Usa números para mostrar impacto: 'Mejoré el rendimiento del sistema' se convierte en 'Reduje la latencia del sistema en un 40 % mediante optimización.'",
+        "impact": "3 veces más entrevistas"
+      },
+      "strategy": {
+        "category": "Estrategia",
+        "tip": "Optimiza palabras clave para cada puesto. Personalizar tu currículum ayuda a pasar los filtros ATS y captar la atención de los reclutadores.",
+        "impact": "80 % mejor puntuación en ATS"
+      },
+      "growth": {
+        "category": "Crecimiento",
+        "tip": "Muestra tu crecimiento. Ascensos, nuevas responsabilidades o capacitaciones hacen que tu trayectoria sea más atractiva.",
+        "impact": "2 veces más tasa de devolución de llamadas"
+      },
+      "format": {
+        "category": "Formato",
+        "tip": "Mantenlo conciso pero poderoso. Verbos fuertes y logros relevantes dicen mucho.",
+        "impact": "90 % de aprobación de reclutadores"
+      },
+      "technical": {
+        "category": "Técnico",
+        "tip": "Añade un resumen técnico breve relevante para el puesto, facilitando que los reclutadores evalúen tu idoneidad al instante.",
+        "impact": "60 % respuestas más rápidas"
+      }
+    },
+    "tryTipButton": "Prueba este consejo ahora"
+  },
+  "faq": {
+    "title": "FAQ",
+    "searchPlaceholder": "¿Qué deseas saber?",
+    "expandAll": "Expandir todas las preguntas",
+    "collapseAll": "Contraer todas las preguntas",
+    "secondTitle": "Tus preguntas, nuestras respuestas",
+    "subtitle": "Descubre cómo CVBABA revoluciona tu búsqueda de empleo",
+    "noResults": {
+      "message": "¿No encuentras lo que buscas?",
+      "subMessage": "Nuestro equipo está a tu disposición para ayudarte a alcanzar el éxito."
+    },
+    "footer": {
+      "text": "¿Listo para dar el siguiente paso?",
+      "link": "Hablemos de tus objetivos profesionales"
+    },
+    "questions": [
+      {
+        "question": "¿Cómo transforma CVBABA mi búsqueda de empleo?",
+        "answer": "CVBABA simplifica y optimiza tu búsqueda de empleo gracias a una IA intuitiva. Al interactuar con nuestra herramienta, puedes crear un currículum impactante, una carta de presentación convincente o mejorar un documento existente. Nuestra tecnología convierte tu experiencia profesional en una historia cautivadora, permitiéndote destacar ante los reclutadores."
+      },
+      {
+        "question": "¿Qué hace diferente a CVBABA de otros creadores de currículums?",
+        "answer": "CVBABA se distingue por su enfoque interactivo y personalizado. A diferencia de las herramientas tradicionales que se limitan a formularios rígidos, nuestra IA actúa como un coach de carrera, ayudándote a resaltar tus fortalezas de una manera única. Ya sea para un currículum, una carta de presentación o un PDF, te ayudamos a crear documentos que reflejen tu valor profesional."
+      },
+      {
+        "question": "¿Qué tan rápido puedo crear un documento profesional?",
+        "answer": "Con CVBABA, crear un documento profesional toma menos de 2 minutos. Nuestra IA transforma rápidamente tu información en un currículum, una carta de presentación o un PDF de calidad. Ahorras tiempo y obtienes un resultado profesional sin tener que preocuparte por el formato."
+      },
+      {
+        "question": "¿Qué plan de CVBABA es el adecuado para mí?",
+        "answer": "CVBABA ofrece planes adaptados a tus necesidades, basados en un sistema de créditos. Cuanto mayor sea el plan, más créditos y funcionalidades avanzadas obtienes. El plan gratuito te permite descubrir nuestras herramientas, mientras que los planes superiores ofrecen más créditos para usar la IA. La edición de PDFs sin IA es ilimitada en todos los planes, lo que te permite personalizar tus documentos como desees."
+      },
+      {
+        "question": "¿Con qué frecuencia debo actualizar mis documentos?",
+        "answer": "Recomendamos actualizar tus documentos cada vez que haya una nueva oportunidad profesional. Adapta tu currículum y carta de presentación según los requisitos del puesto que deseas. CVBABA te ayuda a personalizar rápidamente tus documentos para maximizar tus posibilidades de éxito."
+      },
+      {
+        "question": "¿Están seguras mis informaciones con CVBABA?",
+        "answer": "La seguridad de tus datos es nuestra prioridad. CVBABA utiliza cifrado de última generación para proteger tu información. Puedes compartir tus experiencias y aspiraciones con confianza, sabiendo que tus datos son tratados con la máxima confidencialidad."
+      },
+      {
+        "question": "¿Qué tipo de apoyo puedo esperar?",
+        "answer": "Nuestro equipo de soporte está aquí para guiarte en cada paso. Ya sea que necesites ayuda para crear documentos impactantes o explorar nuestras funciones, estamos a tu disposición. Los usuarios de planes superiores cuentan con un acompañamiento personalizado para maximizar su experiencia."
+      },
+      {
+        "question": "¿Cómo empezar con CVBABA?",
+        "answer": "Comienza ahora interactuando con nuestra IA. No necesitas tarjeta de crédito ni registro complicado. Ya sea que desees crear un currículum, una carta de presentación o mejorar un PDF, CVBABA está aquí para ayudarte a comenzar tu transformación profesional. ¿Estás listo para actuar?"
+      }
+    ]
+  },
+  "privacyPolicy": {
+    "header": {
+      "title": "Política de Privacidad",
+      "subtitle": "¡Información legal importante a continuación!"
+    },
+    "keyPoints": {
+      "title": "Puntos Clave",
+      "points": [
+        "Recopilamos datos de cuenta, currículum, uso y datos técnicos.",
+        "Tus datos se utilizan para proporcionar y mejorar nuestros servicios.",
+        "Implementamos medidas de seguridad sólidas para proteger tu información.",
+        "Tienes derechos para acceder, rectificar y eliminar tus datos.",
+        "No recopilamos datos de menores de 16 años de manera intencional."
+      ]
+    },
+    "expandAll": "Expandir todas las secciones",
+    "collapseAll": "Colapsar todas las secciones",
+    "sections": {
+      "introduction": {
+        "title": "Introducción",
+        "content": [
+          "Bienvenido a <strong>cvbaba.com</strong> (el \"Sitio\"), propiedad y operado por <strong>BylyAI</strong>, el responsable del tratamiento de tus datos personales. Para cualquier pregunta, contáctanos en <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>.",
+          "En <strong>CVBABA</strong>, priorizamos tu privacidad y nos comprometemos a proteger tu información personal. Esta Política de Privacidad describe cómo recopilamos, utilizamos y protegemos tus datos.",
+          "Al utilizar el Sitio y los servicios ofrecidos por CVBaba, aceptas las prácticas de datos descritas en esta Política de Privacidad. Te recomendamos que la leas para entender nuestro compromiso con tu privacidad."
+        ]
+      },
+      "informationWeCollect": {
+        "title": "Información que Recopilamos",
+        "content": [
+          "Recopilamos los siguientes tipos de información personal:",
+          "<ul><li><strong>Información de la cuenta:</strong> Nombre, correo electrónico, credenciales, detalles de pago.</li><li><strong>Contenido del currículum:</strong> Información que proporcionas en tus currículums.</li><li><strong>Datos de uso:</strong> Cómo interactúas con nuestros servicios.</li><li><strong>Datos de comunicación:</strong> Contenido de tus mensajes hacia nosotros.</li><li><strong>Datos técnicos:</strong> Dirección IP, tipo de navegador, información del dispositivo.</li></ul>"
+        ]
+      },
+      "howWeUseYourInformation": {
+        "title": "Cómo Utilizamos tu Información",
+        "content": [
+          "Utilizamos tu información para:",
+          "<ul><li>Proporcionar y mejorar nuestros servicios de creación de currículums.</li><li>Personalizar tu experiencia y ofrecer sugerencias adaptadas.</li><li>Procesar pagos y gestionar tu cuenta.</li><li>Comunicarnos contigo sobre nuestros servicios y actualizaciones.</li><li>Garantizar la seguridad e integridad de nuestra plataforma.</li><li>Cumplir con obligaciones legales.</li></ul>"
+        ]
+      },
+      "informationSharing": {
+        "title": "Compartir Información",
+        "content": [
+          "Podemos compartir tu información con:",
+          "<ul><li>Proveedores de servicios que nos ayudan a ofrecer nuestros servicios.</li><li>Autoridades legales cuando lo exija la ley.</li><li>Socios comerciales en caso de fusión o adquisición.</li><li>Otros usuarios, solo si decides compartir tu currículum públicamente.</li></ul>"
+        ]
+      },
+      "yourRights": {
+        "title": "Tus Derechos",
+        "content": [
+          "Tienes derecho a:",
+          "<ul><li>Acceder y recibir una copia de tus datos personales.</li><li>Rectificar información inexacta o incompleta.</li><li>Solicitar la eliminación de tus datos personales.</li><li>Oponerte a ciertos tratamientos de tus datos.</li><li>Portabilidad de datos.</li></ul>",
+          "Para ejercer estos derechos, contáctanos en <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>."
+        ]
+      },
+      "dataSecurity": {
+        "title": "Seguridad de los Datos",
+        "content": [
+          "Implementamos medidas de seguridad robustas, incluyendo cifrado, servidores seguros y auditorías de seguridad regulares. Sin embargo, ningún método de transmisión por Internet es 100 % seguro. Nos esforzamos por proteger tus datos, pero no podemos garantizar una seguridad absoluta."
+        ]
+      },
+      "childrensPrivacy": {
+        "title": "Privacidad de los Niños",
+        "content": [
+          "CVBABA no está destinado a usuarios menores de 16 años. No recopilamos datos de menores de 16 años de manera intencional. Si descubrimos que hemos recopilado datos personales de un menor de 16 años, eliminaremos dicha información de inmediato. Si crees que podríamos tener información de o sobre un menor de 16 años, por favor contáctanos."
+        ]
+      },
+      "changesToThisPolicy": {
+        "title": "Cambios en esta Política",
+        "content": [
+          "Podemos actualizar esta política periódicamente. Te notificaremos sobre cualquier cambio significativo publicando la nueva política en esta página y actualizando la fecha de \"Última actualización\", ¡así que revísala regularmente!"
+        ]
+      },
+      "contactUs": {
+        "title": "Contáctanos",
+        "content": [
+          "Para cualquier pregunta o inquietud sobre esta Política de Privacidad, contáctanos en <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>."
+        ]
+      }
+    },
+    "lastUpdated": "Última actualización:"
+  },
+  "contact": {
+    "header": {
+      "title": "Contáctanos",
+      "subtitle": "Preguntas, comentarios o soporte: estamos a solo un mensaje de distancia"
+    },
+    "info": {
+      "email": {
+        "title": "Envíanos un correo",
+        "content": "support@cvbaba.com"
+      },
+      "officeHours": {
+        "title": "Horario de oficina",
+        "content": "Lunes - Domingo: 9:00 AM - 10:00 PM GMT"
+      }
+    },
+    "form": {
+      "title": "Envíanos un mensaje",
+      "fields": {
+        "name": "Nombre *",
+        "email": "Correo electrónico *",
+        "subject": "Asunto *",
+        "message": "Mensaje *"
+      },
+      "placeholders": {
+        "name": "Tu nombre",
+        "email": "Tu correo electrónico",
+        "subject": "Selecciona un asunto",
+        "message": "Escribe tu mensaje aquí..."
+      },
+      "subjects": [
+        { "value": "general", "label": "Consulta general" },
+        { "value": "technical", "label": "Soporte técnico" },
+        { "value": "billing", "label": "Pregunta sobre facturación" },
+        { "value": "feedback", "label": "Comentarios" },
+        { "value": "other", "label": "Otro" }
+      ],
+      "submit": {
+        "text": "Enviar mensaje",
+        "loading": "Enviando..."
+      },
+      "success": {
+        "title": "¡Mensaje enviado!",
+        "message": "Gracias por contactarnos."
+      },
+      "errors": {
+        "name": "El nombre es obligatorio.",
+        "email": "Se requiere una dirección de correo electrónico válida.",
+        "subject": "El asunto es obligatorio.",
+        "message": "El mensaje es obligatorio.",
+        "generic": "Ocurrió un error inesperado. Por favor, inténtalo de nuevo más tarde."
+      }
+    }
+  },
+  "termsOfService": {
+    "header": {
+      "title": "Términos de Servicio",
+      "subtitle": "¡Información legal importante a continuación!"
+    },
+    "keyPoints": {
+      "title": "Puntos Clave",
+      "points": [
+        "Debes tener al menos 16 años para usar CVBABA.",
+        "Eres responsable de mantener la confidencialidad de tu cuenta.",
+        "Nos reservamos el derecho de cerrar cuentas que violen nuestros términos.",
+        "El contenido que creas sigue siendo tuyo, pero nos concedes una licencia para usarlo.",
+        "Nuestro servicio se proporciona \"tal cual\" sin garantías."
+      ]
+    },
+    "expandAll": "Expandir todas las secciones",
+    "collapseAll": "Colapsar todas las secciones",
+    "sections": {
+      "acceptanceOfTerms": {
+        "title": "Aceptación de los Términos",
+        "content": "Al acceder o usar CVBABA, aceptas estar sujeto a estos Términos de Servicio. Si no estás de acuerdo con alguna parte de los términos, no podrás acceder al servicio."
+      },
+      "descriptionOfService": {
+        "title": "Descripción del Servicio",
+        "content": "CVBABA ofrece un servicio de creación y optimización de currículums impulsado por IA. Ofrecemos herramientas para crear, editar y mejorar currículums para buscadores de empleo."
+      },
+      "userAccounts": {
+        "title": "Cuentas de Usuario",
+        "content": "Debes tener al menos 16 años para usar CVBABA. Eres responsable de mantener la confidencialidad de tu cuenta y contraseña. Aceptas ser responsable de todas las actividades que ocurran bajo tu cuenta."
+      },
+      "userContent": {
+        "title": "Contenido del Usuario",
+        "content": "Conservas todos los derechos sobre el contenido que envías a CVBABA. Al enviar contenido, nos concedes una licencia mundial, no exclusiva y gratuita para usar, reproducir y mostrar tu contenido en relación con el servicio."
+      },
+      "intellectualProperty": {
+        "title": "Propiedad Intelectual",
+        "content": "El servicio de CVBABA y su contenido original, características y funcionalidades son propiedad de CVBABA y están protegidos por leyes internacionales de derechos de autor, marcas registradas, patentes, secretos comerciales y otras leyes de propiedad intelectual."
+      },
+      "termination": {
+        "title": "Terminación",
+        "content": "Podemos terminar o suspender tu cuenta y prohibirte el acceso al servicio de inmediato, sin previo aviso ni responsabilidad, bajo nuestro exclusivo criterio, por cualquier motivo, incluyendo, pero no limitado a, una violación de los Términos."
+      },
+      "disclaimers": {
+        "title": "Descargos de Responsabilidad",
+        "content": "El uso de CVBABA es bajo tu propio riesgo. El servicio se proporciona \"tal cual\" y \"según disponibilidad\". El servicio se ofrece sin garantías de ningún tipo, ya sean expresas o implícitas."
+      },
+      "limitationOfLiability": {
+        "title": "Limitación de Responsabilidad",
+        "content": "En ningún caso CVBABA, ni sus directores, empleados, socios, agentes, proveedores o afiliados serán responsables por daños indirectos, incidentales, especiales, consecuentes o punitivos, incluyendo, pero no limitado a, pérdida de ganancias, datos, uso, buena voluntad u otras pérdidas intangibles, resultantes de tu acceso o uso o incapacidad para acceder o usar el servicio."
+      },
+      "governingLaw": {
+        "title": "Ley Aplicable",
+        "content": "Estos Términos se regirán e interpretarán de acuerdo con las leyes de los EE. UU., sin tener en cuenta sus disposiciones sobre conflictos de leyes."
+      },
+      "changesToTerms": {
+        "title": "Cambios en los Términos",
+        "content": "Nos reservamos el derecho, a nuestra exclusiva discreción, de modificar o reemplazar estos Términos en cualquier momento. Te notificaremos sobre cualquier cambio significativo publicando los nuevos Términos en esta página."
+      },
+      "contactUs": {
+        "title": "Contáctanos",
+        "content": "Si tienes alguna pregunta sobre estos Términos, contáctanos en <a href=\"mailto:support@cvbaba.com\" class=\"text-blue-600 hover:text-blue-800 font-semibold underline\">support@cvbaba.com</a>."
+      }
+    },
+    "lastUpdated": "Última actualización:"
+  },
+  "navbar": {
+    "home": "Inicio",
+    "blog": "Blog",
+    "pricing": "Precios",
+    "contact": "Contacto",
+    "talkToCVBABA": "Habla con CVBABA",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "menu": "Menú"
+  },
+  "registerForm": {
+    "headerSubtitle": "Únete a miles de profesionales que están desbloqueando su potencial profesional",
+    "title": "Registrarse",
+    "orRegisterWithEmail": "O regístrate con correo electrónico",
+    "fullNameLabel": "Nombre completo",
+    "fullNamePlaceholder": "Juan Pérez",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "tucorreo@email.com",
+    "passwordLabel": "Contraseña",
+    "showPassword": "Mostrar contraseña",
+    "hidePassword": "Ocultar contraseña",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta? Inicia sesión",
+    "createAccountButton": "Crear cuenta",
+    "successMessage": "¡Registro exitoso! Se ha enviado un correo de verificación a tu dirección de correo electrónico. Por favor, verifica tu correo para completar el registro.",
+    "termsText": "Al crear una cuenta, aceptas nuestros",
+    "termsLink": "Términos de Servicio",
+    "and": "y",
+    "privacyLink": "Política de Privacidad",
+    "helpText": "¿Necesitas ayuda?",
+    "contactSupport": "Contactar con soporte",
+    "buttonLabels": {
+      "google": "Continuar con Google",
+      "linkedin": "Continuar con LinkedIn"
+    },
+    "errors": {
+      "default": "No se pudo registrar. Por favor, revisa tu información e inténtalo de nuevo.",
+      "unexpected": "Ocurrió un error inesperado. Por favor, inténtalo de nuevo.",
+      "socialRegister": "No se pudo conectar con {provider}. Por favor, inténtalo de nuevo o elige otra opción."
+    }
+  },
+  "resetPasswordForm": {
+    "title": "Restablecer Contraseña",
+    "instructions": "Ingresa tu dirección de correo electrónico y te enviaremos instrucciones para restablecer tu contraseña.",
+    "emailLabel": "Dirección de correo electrónico",
+    "emailPlaceholder": "tucorreo@email.com",
+    "sendButton": "Enviar",
+    "successTitle": "Revisa tu correo",
+    "successMessage": "Hemos enviado instrucciones para restablecer la contraseña a : ",
+    "backToLogin": "Volver al inicio de sesión",
+    "errors": {
+      "default": "No se pudo procesar tu solicitud. Por favor, inténtalo de nuevo.",
+      "unexpected": "Ocurrió un error inesperado. Por favor, inténtalo de nuevo."
+    }
+  },
+  "updatePasswordForm": {
+    "title": "Actualizar Contraseña",
+    "instructions": "Por favor, ingresa tu nueva contraseña a continuación.",
+    "newPasswordLabel": "Nueva Contraseña",
+    "newPasswordPlaceholder": "••••••••",
+    "confirmPasswordLabel": "Confirmar Nueva Contraseña",
+    "confirmPasswordPlaceholder": "••••••••",
+    "updatePasswordButton": "Actualizar Contraseña",
+    "backToLogin": "Volver al inicio de sesión",
+    "showPassword": "Mostrar contraseña",
+    "hidePassword": "Ocultar contraseña",
+    "successMessage": "¡Tu contraseña se ha actualizado correctamente! Ahora puedes iniciar sesión con tu nueva contraseña.",
+    "errors": {
+      "passwordsDoNotMatch": "Las contraseñas no coinciden.",
+      "missingToken": "Falta el token de restablecimiento. Por favor, revisa tu enlace de restablecimiento.",
+      "default": "No se pudo actualizar la contraseña. Por favor, inténtalo de nuevo.",
+      "unexpected": "Ocurrió un error inesperado. Por favor, inténtalo más tarde."
+    },
+    "signInButton":"Iniciar sesión" 
+
+  },
+  "resendVerification": {
+    "title": "Reenviar Correo de Verificación",
+    "instructions": "Ingresa tu dirección de correo electrónico para reenviar el correo de verificación.",
+    "emailLabel": "Dirección de correo electrónico",
+    "emailPlaceholder": "tucorreo@email.com",
+    "submitButton": "Enviar",
+    "successMessage": "El correo de verificación se ha reenviado correctamente. Por favor, revisa tu bandeja de entrada.",
+    "errors": {
+      "default": "No se pudo reenviar el correo de verificación. Por favor, inténtalo de nuevo.",
+      "unexpected": "Ocurrió un error inesperado. Por favor, inténtalo de nuevo."
+    }
+  },
+  "emailVerification": {
+    "loadingMessage": "Verificando tu dirección de correo electrónico...",
+    "successTitle": "¡Correo Verificado Correctamente!",
+    "successMessage": "Tu correo electrónico ha sido verificado. Ahora puedes iniciar sesión en tu cuenta.",
+    "signInButton": "Iniciar Sesión",
+    "errorTitle": "Verificación Fallida",
+    "returnToLogin": "Volver al Inicio de Sesión",
+    "contactSupport": "Contactar con Soporte",
+    "needHelp": "¿Necesitas ayuda?",
+    "errors": {
+      "missingToken": "Falta el token de verificación. Por favor, revisa tu enlace de verificación.",
+      "default": "La verificación del correo electrónico falló. Por favor, inténtalo de nuevo.",
+      "unexpected": "Ocurrió un error inesperado. Por favor, inténtalo más tarde."
+    }
+  },
+  "chatHistory": {
+    "editTitleAriaLabel": "Editar título del chat",
+    "saveButton": "Guardar",
+    "saveButtonAriaLabel": "Guardar cambios",
+    "cancelButton": "Cancelar",
+    "cancelButtonAriaLabel": "Cancelar cambios",
+    "editButtonAriaLabel": "Editar título del chat",
+    "deleteButtonAriaLabel": "Eliminar chat",
+    "confirmDeleteButtonAriaLabel": "Confirmar eliminación del chat",
+    "cancelDeleteButtonAriaLabel": "Cancelar eliminación del chat",
+    "editSuccessMessage": "¡El título del chat se ha actualizado correctamente!",
+    "editErrorMessage": "No se pudo actualizar el título del chat.",
+    "deleteSuccessMessage": "¡El chat se ha eliminado correctamente!",
+    "deleteErrorMessage": "No se pudo eliminar el chat."
+  },
+  "sidebar": {
+    "newCVButton": "Nuevo CV",
+    "searchPlaceholder": "Buscar currículums...",
+    "historyTitle": "Historial ",
+    "noChatsFound": "No se encontraron chats.",
+    "errors": {
+      "apiBaseUrlNotDefined": "La URL base de la API no está definida.",
+      "failedToLoadChats": "No se pudieron cargar los chats. Por favor, inténtalo de nuevo."
+    },
+    "menuAriaLabel": "Menú",
+    "menuTooltip": "Menú",
+    "profileMenuItem": "Perfil",
+    "settingsMenuItem": "General",
+    "billingMenuItem": "Facturación",
+    "communityMenuItem": "Comunidad",
+    "feedbackMenuItem": "Feedback",
+    "notificationsAriaLabel": "Notificaciones",
+    "notificationsTooltip": "Notificaciones",
+    "logoutAriaLabel": "Cerrar Sesión",
+    "logoutTooltip": "Cerrar Sesión"
+  },
+  "feedbackModal": {
+    "title": "Valoramos tu Feedback",
+    "description": "Tu feedback nos ayuda a mejorar nuestros servicios. Por favor, tómate un momento para compartir tus pensamientos con nosotros.",
+    "thankYouTitle": "Gracias",
+    "thankYouHeading": "¡Gracias por tu feedback!",
+    "thankYouMessage": "Apreciamos tu opinión.",
+    "closeButton": "Cerrar",
+    "subjectLabel": "Asunto",
+    "messagePlaceholder": "Escribe tu mensaje aquí...",
+    "submitButton": "Enviar",
+    "submittingButton": "Enviando...",
+    "errors": {
+      "invalidSubject": "Por favor, selecciona un asunto válido.",
+      "messageRequired": "El mensaje es obligatorio.",
+      "submissionError": "Error al enviar el formulario: {error}",
+      "unknownError": "Error desconocido",
+      "unexpectedError": "Ocurrió un error inesperado. Por favor, inténtalo más tarde."
+    },
+    "subjects": {
+      "general": {
+        "label": "Consulta General",
+        "description": "Comparte cualquier pregunta o comentario general"
+      },
+      "technical": {
+        "label": "Soporte Técnico",
+        "description": "Obtén ayuda con problemas técnicos"
+      },
+      "billing": {
+        "label": "Pregunta de Facturación",
+        "description": "Haz preguntas sobre facturación o pagos"
+      },
+      "feedback": {
+        "label": "Feedback",
+        "description": "Comparte tu experiencia y sugerencias"
+      },
+      "other": {
+        "label": "Otro",
+        "description": "Cuéntanos sobre otros temas"
+      }
+    }
+  },
+  "notificationsModal": {
+    "title": "Notificaciones",
+    "noNotifications": "No tienes notificaciones nuevas.",
+    "markAsReadButton": "Marcar como leído"
+  },
+  "notifications": {
+    "welcome": {
+      "title": "¡Bienvenido a CVBABA! 🎉",
+      "description": "¿Listo para brillar? Crea tu primer CV y comienza a chatear con BABA AI. ¡Hagamos que tu viaje profesional sea increíble!"
+    },
+    "profileUpdate": {
+      "title": "¡Actualización de perfil exitosa! 🌟",
+      "description": "Tu perfil ahora brilla con las últimas actualizaciones. ¡Estás listo!"
+    },
+    "newFeature": {
+      "title": "¡Nueva función emocionante! 🚀",
+      "description": "Descubre nuestras nuevas plantillas de CV. ¡Tu currículum está a punto de recibir una gran mejora!"
+    },
+    "error": {
+      "fetch": "¡Ups! No pudimos cargar tus notificaciones en este momento. Por favor, inténtalo de nuevo más tarde. 😞"
+    },
+    "title": "Tu centro de notificaciones 📢",
+    "empty": "Aún no hay notificaciones. ¡Mantente atento para actualizaciones emocionantes! 🎈",
+    "markAsRead": "Marcar como leído ✔️",
+    "time": {
+      "justNow": "Ahora mismo ⏰",
+      "hoursAgo": "Hace {{hours}}h 🕒",
+      "yesterday": "Ayer 📅",
+      "dateFormat": "MMM d, yyyy",
+      "invalidDate": "Hmm, esa fecha parece un poco rara. 🤔"
+    }
+  },
+  "thinkingIndicator": {
+    "fullText": "Espera unos segundos...",
+    "quotes": [
+      "Una página en blanco no es un vacío que llenar, sino un espacio sagrado donde germina la inspiración",
+      "El arte nace de la paciencia y la perseverancia, como una flor que florece lentamente",
+      "Escribir es esculpir el tiempo en palabras eternas: cada frase es una victoria sobre la impaciencia",
+      "La perseverancia es el puente entre el sueño y la realización",
+      "Amar es también saber esperar con gracia y confianza",
+      "Una obra maestra se construye segundo a segundo, en la alquimia del tiempo y la pasión",
+      "La paciencia no es una espera pasiva, sino el arte de cultivar el jardín interior",
+      "En el lienzo de la vida, cada pincelada merece contemplación",
+      "Las historias más bellas se escriben con la tinta de la perseverancia",
+      "En el silencio de la creación, el amor y la paciencia bailan juntos",
+      "La mano que traza las letras a veces debe descansar para bailar mejor con las palabras",
+      "Perseverar es amar lo suficiente tu sueño como para darle tiempo para madurar",
+      "El corazón del creador late al ritmo de tres virtudes: paciencia, perseverancia, pasión",
+      "Entre dos líneas de un poema, se esconden horas de silencio y atención",
+      "Una novela nace de una multitud de 'tal vez' transformados en 'sí' por la tenacidad",
+      "El arte verdadero es un maratón donde cada paso cuenta más que la línea de meta",
+      "Amar crear es abrazar los recomienzos sin perder la llama",
+      "La escultura más bella es la que el tiempo talla día a día en el alma del artista",
+      "Las palabras vendrán cuando escuchen el corazón paciente de quien las espera",
+      "En la catedral de la creación, cada piedra se coloca con amor y obstinación"
+    ]
+  },
+  "pdfPreview": {
+    "title": "Vista Previa del PDF",
+    "generatePdf": "Generar PDF",
+    "pdfGenerated": "PDF Generado",
+    "edit": "Editar",
+    "save": "Guardar",
+    "saving": "Guardando...",
+    "downloadPdf": "Descargar PDF",
+    "pdfPreviewTitle": "Vista Previa del PDF",
+    "renderedHtmlTitle": "Contenido HTML Renderizado",
+    "errorTitle": "Error",
+    "errorMessage": "Ocurrió un error al procesar la solicitud."
+  },
+  "generalComponent": {
+    "title": "Configuración General",
+    "loading": "Cargando configuración...",
+    "success": {
+      "confidenceUpdated": "¡La confianza se ha actualizado correctamente!"
+    },
+    "errors": {
+      "loadSettingsFailed": "No se pudieron cargar las configuraciones.",
+      "updateFailed": "No se pudo actualizar ."
+    }
+  },
+
+  "resumeForm": {
+    "outputLanguage": "Idioma de salida",
+    "messageCvBaba": "Mensaje CVBABA...",
+    "atsOptimization": "Optimización ATS",
+    "includeProfessionalPhoto": "Incluir foto",
+    "privacyNote": "",
+    "uploadProfessionalPhoto": "Subir una foto profesional",
+    "clickToUpdatePhoto": "Haz clic en el icono de edición para actualizar tu foto",
+    "creating": "Creando...",
+    "create": "Crear",
+    "useTemplate": "Usar una plantilla",
+    "textToDoc": "Texto a documento",
+    "pasteJobDescription": "Pega la descripción del trabajo aquí...",
+    "pleaseFillPreferences": "Por favor, {{action}} completa tus preferencias para continuar.",
+    "selectTemplateAnd": "selecciona una plantilla y ",
+    "english": "Inglés",
+    "french": "Francés",
+    "spanish": "Español",
+    "german": "Alemán",
+    "italian": "Italiano",
+    "portuguese": "Portugués",
+    "dutch": "Holandés",
+    "russian": "Ruso",
+    "chinese": "Chino",
+    "japanese": "Japonés",
+    "korean": "Coreano",
+    "arabic": "العربية (Árabe)",
+    "hindi": "हिन्दी (Hindi)",
+    "turkish": "Türkçe (Turco)",
+    "polish": "Polski (Polaco)",
+    "swedish": "Svenska (Sueco)",
+    "finnish": "Suomi (Finés)",
+    "norwegian": "Norsk (Noruego)",
+    "danish": "Dansk (Danés)",
+    "czech": "Čeština (Checo)",
+    "greek": "Ελληνικά (Griego)"
+  },
+  "updatePassword": {
+    "botMessage1": "🔒 Actualicemos tu contraseña para mantener tu cuenta segura.",
+    "optionYesUpdate": "¡Sí, actualicemos!",
+    "optionNeedHelp": "¿Necesitas ayuda?",
+    "updatingPassword": "Actualizando tu contraseña...",
+    "errorMissingToken": "❌ Falta el token de restablecimiento. Por favor, revisa tu enlace de restablecimiento.",
+    "errorPasswordsMismatch": "❌ Las contraseñas no coinciden. Por favor, inténtalo de nuevo.",
+    "successPasswordUpdated": "🎉 ¡Contraseña actualizada con éxito! Ahora puedes iniciar sesión con tu nueva contraseña.",
+    "goToLoginPrompt": "¿Te gustaría ir a la página de inicio de sesión?",
+    "optionYesLogin": "Sí, llévame al inicio de sesión",
+    "optionLater": "Lo haré más tarde",
+    "errorDefault": "No se pudo actualizar la contraseña. Por favor, inténtalo de nuevo.",
+    "tryAgainPrompt": "¿Te gustaría intentarlo de nuevo?",
+    "optionTryAgain": "Sí, déjame intentarlo de nuevo",
+    "optionContactSupport": "Contactar con soporte",
+    "errorUnexpected": "❌ Ocurrió un error inesperado. Por favor, inténtalo de nuevo o contacta con soporte.",
+    "confirmNewPassword": "¡Genial! Ahora confirma tu nueva contraseña.",
+    "readyToUpdate": "¿Listo para actualizar tu contraseña?",
+    "optionUpdateNow": "Sí, actualizar ahora",
+    "optionChangeSomething": "Necesito cambiar algo",
+    "enterNewPassword": "Por favor, introduce tu nueva contraseña:",
+    "whatToChange": "¿Qué te gustaría cambiar?",
+    "optionNewPassword": "Nueva contraseña",
+    "optionConfirmPassword": "Confirmar contraseña",
+    "enterField": "Por favor, introduce tu {{field}}:",
+    "sendButton": "Enviar",
+    "assistantTitle": "Asistente de restablecimiento de contraseña",
+    "aiPowered": "Restablecimiento de contraseña con IA"
+  },
+  "resetPassword": {
+    "botMessage1": "🔒 Restablezcamos tu contraseña de forma segura. Por favor, introduce tu dirección de correo electrónico para comenzar.",
+    "successMessage": "🎉 Hemos enviado las instrucciones para restablecer tu contraseña a :",
+    "optionResendEmail": "Reenviar correo electrónico",
+    "optionBackToLogin": "Volver al inicio de sesión",
+    "errorDefault": "No se pudo procesar tu solicitud. Por favor, inténtalo de nuevo.",
+    "optionTryAgain": "Intentar de nuevo",
+    "optionContactSupport": "Contactar con soporte",
+    "errorUnexpected": "Ocurrió un error inesperado. Por favor, inténtalo de nuevo.",
+    "emailPlaceholder": "Introduce tu correo electrónico",
+    "sendButton": "Enviar",
+    "assistantTitle": "Asistente de restablecimiento de contraseña",
+    "aiPoweredAssistance": "Asistencia con IA"
+  },
+  "register": {
+    "botMessage1": "👋 ¡Hola! Soy CVBABA, tu asistente de CV. ¡Comencemos a crear tu perfil profesional!",
+    "optionEmail": "Registrarse con correo electrónico",
+    "optionGoogle": "Registrarse con Google",
+    "optionLinkedIn": "Registrarse con LinkedIn",
+    "connectingToProvider": "🔗 Conectando con {{provider}}...",
+    "errorProviderConnection": "Error al obtener la URL de registro para {{provider}}",
+    "errorProviderRetry": "❌ No se pudo conectar con {{provider}}. ¿Te gustaría probar otro método?",
+    "optionTryAgain": "Intentar de nuevo con {{provider}}",
+    "optionNeedHelp": "¿Necesitas ayuda?",
+    "processingRegistration": "⏳ Procesando tu registro...",
+    "successRegistration": "🎉 ¡Registro exitoso! Se ha enviado un correo de verificación a tu dirección de correo electrónico. Por favor, verifica tu correo para completar el registro.",
+    "errorDefault": "No se pudo registrar. Por favor, revisa tu información e inténtalo de nuevo.",
+    "tryAgainPrompt": "¿Te gustaría intentarlo de nuevo?",
+    "optionFixIt": "Sí, déjame corregirlo",
+    "optionContactSupport": "Contactar con soporte",
+    "errorUnexpected": "❌ Ocurrió un error inesperado. Por favor, inténtalo de nuevo o contacta con soporte.",
+    "botMessageFullName": "👋 ¡Encantado de conocerte, {{value}}! ¿Cuál es tu dirección de correo electrónico?",
+    "botMessageEmail": "📧 ¡Entendido! Ahora, crea una contraseña segura para proteger tu cuenta.",
+    "botMessagePassword": "🔒 ¡Perfecto! ¿Listo para crear tu cuenta?",
+    "optionRegisterNow": "Sí, registrarme ahora",
+    "optionChangeSomething": "Necesito cambiar algo",
+    "botMessageStart": "📝 ¡Comencemos! ¿Cuál es tu nombre completo?",
+    "botMessageChangeSomething": "🛠️ ¡No hay problema! ¿Qué te gustaría cambiar?",
+    "optionFullName": "Nombre completo",
+    "optionEmailField": "Correo electrónico",
+    "optionPassword": "Contraseña",
+    "botMessageEnterNew": "✏️ Por favor, introduce tu nuevo {{field}}:",
+    "placeholderEnterField": "Introduce tu {{field}}",
+    "sendButton": "Enviar",
+    "assistantTitle": "Asistente de registro",
+    "aiPoweredRegistration": "Registro con IA"
+  },
+  "meta": {
+    "language": "es",
+    "title": "CVBABA: CVs y Cartas de Presentación Sin Esfuerzo para Trabajos en Todo el Mundo",
+    "description": "¡Prepárate para el trabajo en minutos con CVBABA! Nuestra plataforma impulsada por IA te ayuda a crear CVs y cartas de presentación profesionales adaptados a oportunidades globales. Rápido, fácil y diseñado para ayudarte a triunfar.",
+    "og": {
+      "title": "CVBABA: CVs y Cartas de Presentación Sin Esfuerzo para Trabajos en Todo el Mundo",
+      "description": "¡Prepárate para el trabajo en minutos con CVBABA! Nuestra plataforma impulsada por IA te ayuda a crear CVs y cartas de presentación profesionales adaptados a oportunidades globales. Rápido, fácil y diseñado para ayudarte a triunfar.",
+      "imageAlt": "Imagen de CVBABA Open Graph"
+    },
+    "twitter": {
+      "title": "CVBABA: CVs y Cartas de Presentación Sin Esfuerzo para Trabajos en Todo el Mundo",
+      "description": "¡Prepárate para el trabajo en minutos con CVBABA! Nuestra plataforma impulsada por IA te ayuda a crear CVs y cartas de presentación profesionales adaptados a oportunidades globales. Rápido, fácil y diseñado para ayudarte a triunfar."
+    }
+  },
+  "templateSelector": {
+    "useThisTemplate": "Haga clic para usar esta plantilla",
+    "selected": "Seleccionada",
+    "upgradeToPro": "Actualiza ",
+    "pro": "PRO",
+    "preview": "Vista previa"
+  },
+  "billing": {
+    "errors": {
+      "fetchSubscription": "Recuperando datos de suscripción",
+      "loadSubscription": "",
+      "cancellation": "Error durante la cancelación",
+      "chat":"Chatea con CVBABA",
+      "cancelSubscription": "No se puede cancelar la suscripción",
+      "loadingError": "Cargando... ",
+      "loadingMessage": ""
+    },
+    "success": {
+      "subscriptionCancelled": "Tu suscripción ha sido cancelada con éxito"
+    },
+    "time": {
+      "justNow": "Ahora mismo",
+      "minutesAgo": "Hace {{minutes}} min",
+      "hoursAgo": "Hace {{hours}} h",
+      "daysAgo": "Hace {{days}} día{{plural ? 's' : ''}}"
+    },
+    "headers": {
+      "billingOverview": "Resumen de facturación",
+      "manageSubscription": "Gestión de tu suscripción {{plan}}"
+    },
+    "buttons": {
+      "retry": "Intentar de nuevo",
+      "cancelSubscription": "Cancelar suscripción",
+      "cancel": "Cancelar",
+      "confirmCancel": "Confirmar cancelación",
+      "modifyPlan": "Modificar plan",
+      "reactivate": "Reactivar",
+      "buyCredits": "Comprar más créditos"
+    },
+    "modal": {
+      "cancelTitle": "Confirmar cancelación",
+      "cancelConfirmation": "¿Estás seguro de que quieres cancelar tu suscripción? Tus créditos restantes se conservarán."
+    },
+    "plan": {
+      "title": "Plan {{type}}",
+      "status": {
+        "active": "Activo",
+        "inactive": "Inactivo"
+      },
+      "created": "Creado",
+      "lastUpdated": "Última actualización"
+    },
+    "credits": {
+      "title": "Créditos disponibles",
+      "subtitle": "Uso del ciclo actual",
+      "tooltip": "Los créditos se renuevan con tu próximo ciclo de facturación"
+    }
+  }
+}

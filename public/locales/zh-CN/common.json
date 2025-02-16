@@ -1,0 +1,20 @@
+{
+  "loginForm": {
+    "headerSubtitle": "加入数千名释放职业潜力的专业人士",
+    "accessTitle": "快速便捷的访问",
+    "accessSubtitle": "选择您首选的登录方式",
+    "connecting": "连接中...",
+    "termsText": "继续即表示您同意我们的",
+    "termsLink": "服务条款",
+    "and": "和",
+    "privacyLink": "隐私政策",
+    "helpText": "需要帮助？",
+    "contactSupport": "联系支持",
+    
+    "buttonLabels": {
+      "google": "通过 Google 继续",
+      "linkedin": "通过 LinkedIn 继续",
+      "facebook": "通过 Facebook 继续"
+    }
+  }
+}

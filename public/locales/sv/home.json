@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "title": "Stick ut och bli anställd med",
+    "subtitle": "Förvandla din jobbsökning med AI-drivna, professionellt designade CV som gör ett bestående intryck.",
+    "ctaButton": "Börja din Zen CV-resa",
+    "ctaAriaLabel": "Börja nu med CVBABA"
+  },
+
+  "features": {
+    "title": "Lås upp din karriärpotential",
+    "subtitle": "Upptäck hur våra skräddarsydda verktyg förbättrar ditt CV och skapar verklig effekt i din jobbsökning.",
+    "items": [
+      {
+        "title": "AI-drivet CV-optimering",
+        "description": "Få riktade insikter för att skapa CV som sticker ut."
+      },
+      {
+        "title": "Professionellt designade mallar",
+        "description": "Få tillgång till över 1 000 moderna mallar för en unik och elegant stil."
+      },
+      {
+        "title": "Stöd för flera språk",
+        "description": "Nå globala arbetsgivare med CV på flera språk."
+      },
+      {
+        "title": "Omedelbar CV-skapande",
+        "description": "Spara tid med en snabb och effektiv process klar på några minuter."
+      },
+      {
+        "title": "Anpassningsbara designer",
+        "description": "Personalisera varje detalj för att matcha din professionella stil."
+      },
+      {
+        "title": "ATS-kompatibel",
+        "description": "Öka din synlighet genom att säkerställa att ditt CV klarar ATS-kontroller."
+      }
+    ]
+  },
+
+  "statistics": {
+    "title": "Förtroende av tusentals",
+    "subtitle": "Gå med i ett community av yrkesverksamma som förlitar sig på CVBABA för att förbättra sin jobbsökning med lätthet och självförtroende.",
+    "items": [
+      {
+        "value": "10K+",
+        "label": "Aktiva användare"
+      },
+      {
+        "value": "1000+",
+        "label": "Mallar"
+      },
+      {
+        "value": "90%",
+        "label": "Framgångsgrad"
+      },
+      {
+        "value": "40k timmar",
+        "label": "Timmar sparade"
+      }
+    ]
+  },
+
+  "testimonials": {
+    "title": "Vad våra användare säger",
+    "subtitle": "Se hur CVBABA har gjort skillnad för jobbsökande från alla branscher och bakgrunder.",
+    "description": "Se hur CVBABA har gjort skillnad för jobbsökande från alla branscher och bakgrunder."
+  },
+
+  "callToAction": {
+    "title": "Redo att skapa ditt perfekta CV?",
+    "description": "Börja din resa med CVBABA och förändra sättet du närmar dig din jobbsökning. Låt oss göra det enklare tillsammans.",
+    "getStarted": "Kom igång nu"
+  },
+
+  "loginForm": {
+    "headerSubtitle": "Gå med tusentals yrkesverksamma som låser upp sin karriärpotential",
+    "accessTitle": "Snabb och enkel åtkomst",
+    "accessSubtitle": "Välj din föredragna inloggningsmetod",
+    "connecting": "Ansluter...",
+    "termsText": "Genom att fortsätta godkänner du våra",
+    "termsLink": "Användarvillkor",
+    "and": "och",
+    "privacyLink": "Integritetspolicy",
+    "helpText": "Behöver du hjälp?",
+    "contactSupport": "Kontakta supporten",
+    
+    "buttonLabels": {
+      "google": "Fortsätt med Google",
+      "linkedin": "Fortsätt med LinkedIn",
+      "facebook": "Fortsätt med Facebook"
+    }
+  }
+}
