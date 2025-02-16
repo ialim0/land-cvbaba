@@ -24,15 +24,15 @@ interface TipsTranslations {
 }
 
 const COMPANIES: Company[] = [
-    { "name": "Google", "logo": "/svgs/google.svg" },       
-    { "name": "Goldman Sachs", "logo": "/svgs/goldman-sachs.svg" }, 
-    { "name": "Nike", "logo": "/svgs/nike.svg" },          
-    { "name": "Netflix", "logo": "/svgs/netflix.svg" },     
-    { "name": "Deloitte", "logo": "/svgs/deloitte.svg" },   
-    { "name": "Tesla", "logo": "/svgs/tesla.svg" },         
-    { "name": "Apple", "logo": "/svgs/apple.svg" },        
-    { "name": "Microsoft", "logo": "/svgs/microsoft.svg" }  
-  
+  { "name": "Google", "logo": "/svgs/google.svg" },
+  { "name": "Goldman Sachs", "logo": "/svgs/goldman-sachs.svg" },
+  { "name": "Nike", "logo": "/svgs/nike.svg" },
+  { "name": "Netflix", "logo": "/svgs/netflix.svg" },
+  { "name": "Deloitte", "logo": "/svgs/deloitte.svg" },
+  { "name": "Tesla", "logo": "/svgs/tesla.svg" },
+  { "name": "Apple", "logo": "/svgs/apple.svg" },
+  { "name": "Microsoft", "logo": "/svgs/microsoft.svg" }
+
 ];
 
 interface TrustedProps {
@@ -64,12 +64,17 @@ const Trusted: React.FC<TrustedProps> = ({ t }) => {
           {tip.tip}
         </p>
 
-        <Link href="/login" className="block mt-auto">
+        <a
+          href="https://chat.cvbaba.com"
+          rel="noopener noreferrer"
+          className="block mt-auto"
+        >
           <button className="w-full flex items-center justify-center gap-2 px-3 py-2 sm:px-4 sm:py-3 rounded-xl font-medium text-white bg-[#1757FF] hover:bg-blue-700 transition-all duration-300 text-sm">
             {t('trusted.tryTipButton')}
             <ChevronRight className="w-4 h-4" />
           </button>
-        </Link>
+        </a>
+
       </div>
     </div>
   );
